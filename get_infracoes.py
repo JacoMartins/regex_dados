@@ -15,7 +15,7 @@ def extract_text_from_pdf(pdf_file: str) -> [str]:
 
 
 def extract_info(text):
-    pattern = r" CONSELHO NACIONAL DE TRÂNSITO \nMANUAL BRASILEIRO DE FISCALIZAÇÃO DE TRÂNSITO – MBFT  \nFICHA DE FISCALIZAÇÃO(?:.*?)Tipificação Resumida:(?:\s\s|\s)(.*?)Código (?:do\s|de\s)?Enquadramento: (.*?)Amparo Legal: (.*?)Tipificação do Enquadramento: (.*?)Gravidade: (.*?)Penalidad(?:\s)?e: (.*?)Medida Administrativa: (.*?)Pode Configurar Crime de \nTrânsito: (.*?)Infrator: (.*?)Competência(?:\s)?: (.*?)Pontuação: (.*?)Constatação da Infração: (.*?)"
+    pattern = r"CONSELHO NACIONAL DE TRÂNSITO(?:.*?)\nMANUAL BRASILEIRO DE FISCALIZAÇÃO DE TRÂNSITO(?:.*?)–(?:.*?)MBFT(?:.*?)\nFICHA DE FISCALIZAÇÃO(?:.*?)Tipificação Resumida:(?:\s\s|\s)(.*?)Código (?:do\s|de\s)?Enquadramento:(.*?)Amparo Legal:(.*?)Tipificação do Enquadramento:(.*?)Gravidade:(.*?)Penalida(?:\s)?d(?:\s)?e:(.*?)Medida Administrativa:(.*?)Pode Configurar Crime de \nTrânsito:(.*?)Infrator:(.*?)Competência(?:\s)?:(.*?)Pontuação(?:\s)?:(.*?)Constatação da Infração:(.*?)"
     remove_spaces_pattern = r"\s+"
 
     matches = re.findall(
@@ -31,7 +31,7 @@ def extract_info(text):
     info_list = [
         {
             "Tipificação": match[0].replace('\n', '')[:-1],
-            "Código Enquadramento": re.sub(remove_spaces_pattern, '', match[1].replace('\n', '')).replace('-', ''),
+            "Código Enquadramento": re.sub(remove_spaces_pattern, '', match[1].replace('\n', '')).replace('-', '')[0:4] + '-' + re.sub(remove_spaces_pattern, '', match[1].replace('\n', '')).replace('-', '')[-1],
             "Amparo": match[2].replace('\n', '')[:-1],
             "Gravidade": match[4].replace('\n', ''),
             "Infrator": match[8].replace('\n', '')[:-1],
