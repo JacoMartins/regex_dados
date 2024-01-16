@@ -1,0 +1,4142 @@
+[
+    {
+        "Amparo": "162 I",
+        "Código Enquadramento": "5010",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir veículo sem possuir CNH ou Permissão para Dirigir ."
+    },
+    {
+        "Amparo": "162 I",
+        "Código Enquadramento": "5010",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir veículo sem possuir CNH ."
+    },
+    {
+        "Amparo": "162 I",
+        "Código Enquadramento": "5010",
+        "Desdobramento": "2",
+        "Tipificação": "Dirigir veículo sem possuir permissão para dirigir."
+    },
+    {
+        "Amparo": "162 II",
+        "Código Enquadramento": "5029",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir veículo com CNH ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir."
+    },
+    {
+        "Amparo": "162 II",
+        "Código Enquadramento": "5029",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir veículo com CNH cassada."
+    },
+    {
+        "Amparo": "162 II",
+        "Código Enquadramento": "5029",
+        "Desdobramento": "2",
+        "Tipificação": "Dirigir veículo com Permissão para dirigir cassada."
+    },
+    {
+        "Amparo": "162 II",
+        "Código Enquadramento": "5029",
+        "Desdobramento": "3",
+        "Tipificação": "Dirigir veículo com CNH, com suspensão do direito de dirigir."
+    },
+    {
+        "Amparo": "162 II",
+        "Código Enquadramento": "5029",
+        "Desdobramento": "4",
+        "Tipificação": "Dirigir veículo com Permissão para dirigir com suspensão do direito de dirigir."
+    },
+    {
+        "Amparo": "162 III",
+        "Código Enquadramento": "5037",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir veículo com CNH ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo."
+    },
+    {
+        "Amparo": "162 III",
+        "Código Enquadramento": "5037",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir veículo com CNH de categoria diferente da do veículo que esteja conduzindo."
+    },
+    {
+        "Amparo": "162 III",
+        "Código Enquadramento": "5037",
+        "Desdobramento": "2",
+        "Tipificação": "Dirigir veículo com Permissão para dirigir de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "Amparo": "162 V",
+        "Código Enquadramento": "5045",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir veículo com validade da CNH vencida a mais de trinta dias ."
+    },
+    {
+        "Amparo": "162 VI",
+        "Código Enquadramento": "5053",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir o veículo sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou renovação da licença para conduzir."
+    },
+    {
+        "Amparo": "162 VI",
+        "Código Enquadramento": "5053",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir veículo sem usar lentes corretoras de visão ."
+    },
+    {
+        "Amparo": "162 VI",
+        "Código Enquadramento": "5053",
+        "Desdobramento": "2",
+        "Tipificação": "Dirigir veículo sem usar aparelho auxiliar de audição ."
+    },
+    {
+        "Amparo": "162 VI",
+        "Código Enquadramento": "5053",
+        "Desdobramento": "3",
+        "Tipificação": "Dirigir veículo sem usar prótese física ."
+    },
+    {
+        "Amparo": "162 VI",
+        "Código Enquadramento": "5053",
+        "Desdobramento": "4",
+        "Tipificação": "Dirigir veículo sem usar sem usar as adaptações do veículo impostas por ocasião da concessão."
+    },
+    {
+        "Amparo": "162 VI",
+        "Código Enquadramento": "5053",
+        "Desdobramento": "5",
+        "Tipificação": "Dirigir veículo sem a renovação da licença para conduzir."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5061",
+        "Desdobramento": "1",
+        "Tipificação": "Entregar a direção do veículo a pessoa que não possua CNH ."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5061",
+        "Desdobramento": "2",
+        "Tipificação": "Entregar a direção do veículo a pessoa que não possua Permissão para dirigir."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5061",
+        "Desdobramento": "0",
+        "Tipificação": "Entregar a direção do veículo a pessoa que não possua CNH ou permissão para dirigir ."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5070",
+        "Desdobramento": "0",
+        "Tipificação": "Entregar a direção do veículo a pessoa com CNH ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir ."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5070",
+        "Desdobramento": "1",
+        "Tipificação": "Entregar a direção do veículo a pessoa com CNH cassada."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5070",
+        "Desdobramento": "4",
+        "Tipificação": "Entregar a direção do veículo a pessoa com Permissão para dirigir com suspensão do direito de dirigir ."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5070",
+        "Desdobramento": "2",
+        "Tipificação": "Entregar a direção do veículo a pessoa com Permissão para dirigir cassada ."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5070",
+        "Desdobramento": "3",
+        "Tipificação": "Entregar a direção do veículo a pessoa com CNH com suspensão do direito de dirigir."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5088",
+        "Desdobramento": "0",
+        "Tipificação": "Entregar a direção do veículo a pessoa com CNH ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "Amparo": "163 c/c 162 III",
+        "Código Enquadramento": "5088",
+        "Desdobramento": "1",
+        "Tipificação": "Entregar veículo a pessoa com CNH de categoria diferente da do veículo."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5088",
+        "Desdobramento": "2",
+        "Tipificação": "Entregar a direção do veículo a pessoa com Permissão para Dirigir, de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5096",
+        "Desdobramento": "0",
+        "Tipificação": "Entregar a direção do veículo a pessoa com validade da CNH, vencida a mais de trinta dias ."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5100",
+        "Desdobramento": "0",
+        "Tipificação": "Entregar a direção do veículo a pessoa sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou renovação da licença para conduzir ."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5100",
+        "Desdobramento": "1",
+        "Tipificação": "Entregar a direção do veículo a pessoa sem usar lentes corretoras de visão."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5100",
+        "Desdobramento": "2",
+        "Tipificação": "Entregar a direção do veículo a pessoa sem usar aparelho auxiliar de audição."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5100",
+        "Desdobramento": "3",
+        "Tipificação": "Entregar a direção do veículo a pessoa sem usar prótese física."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5118",
+        "Desdobramento": "1",
+        "Tipificação": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via, a pessoa que não possua CNH ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5118",
+        "Desdobramento": "2",
+        "Tipificação": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via, a pessoa que não possua Permissão para Dirigir."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5100",
+        "Desdobramento": "4",
+        "Tipificação": "Entregar a direção do veículo a pessoa sem usar as adaptações do veículo, impostas por ocasião da concessão ."
+    },
+    {
+        "Amparo": "163",
+        "Código Enquadramento": "5100",
+        "Desdobramento": "5",
+        "Tipificação": "Entregar a direção do veículo a pessoa sem a licença para conduzir."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5118",
+        "Desdobramento": "0",
+        "Tipificação": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via a pessoa que não possua CNH ou Permissão para Dirigir."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5126",
+        "Desdobramento": "0",
+        "Tipificação": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via, pessoa com CNH ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5126",
+        "Desdobramento": "4",
+        "Tipificação": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com Permissão para Dirigir suspensa ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5126",
+        "Desdobramento": "1",
+        "Tipificação": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com CNH cassada ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5126",
+        "Desdobramento": "2",
+        "Tipificação": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com Permissão para Dirigir cassada."
+    },
+    {
+        "Amparo": "163 c/c 162 II",
+        "Código Enquadramento": "5126",
+        "Desdobramento": "3",
+        "Tipificação": "Permitir posse/condução veíc pessoa com CNH/PPD c/ suspensão direito de dirigir ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5134",
+        "Desdobramento": "0",
+        "Tipificação": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via, a pessoa com CNH ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5134",
+        "Desdobramento": "1",
+        "Tipificação": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com CNH de categoria diferente da do veículo que esteja conduzindo."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5134",
+        "Desdobramento": "2",
+        "Tipificação": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5142",
+        "Desdobramento": "0",
+        "Tipificação": "Permitir que tome posse do veículo epasse a conduzi-lo na via a pessoa com validade da CNH vencida a mais de trinta dias."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5150",
+        "Desdobramento": "0",
+        "Tipificação": "Permitir que tome posse do veículo epasse a conduzi-lo na via a pessoasem usar lentes corretoras de visão , aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou renovação da licença para conduzir ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5150",
+        "Desdobramento": "1",
+        "Tipificação": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa sem usar lentes corretoras de visão ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5150",
+        "Desdobramento": "2",
+        "Tipificação": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa sem usar aparelho auxiliar de audição ."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5150",
+        "Desdobramento": "3",
+        "Tipificação": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa sem usarprótese física."
+    },
+    {
+        "Amparo": "163 c/c 162 VI",
+        "Código Enquadramento": "5150",
+        "Desdobramento": "4",
+        "Tipificação": "Permitir posse/cond veíc s/ adaptações impostas concessão/renovação licença cond."
+    },
+    {
+        "Amparo": "164",
+        "Código Enquadramento": "5150",
+        "Desdobramento": "5",
+        "Tipificação": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa sem a renovação de licença para conduzir."
+    },
+    {
+        "Amparo": "165",
+        "Código Enquadramento": "5169",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir sob influência de álcool, em nível superior a seis decigramas por litro de sangue ou de qualquer substância entorpecente ou que determine dependência física ou psíquica."
+    },
+    {
+        "Amparo": "165",
+        "Código Enquadramento": "5169",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir sob a influência de álcool."
+    },
+    {
+        "Amparo": "165",
+        "Código Enquadramento": "5169",
+        "Desdobramento": "2",
+        "Tipificação": "Dirigir sob influência subst entorpecente ou q determine depend física/psíquica ."
+    },
+    {
+        "Amparo": "165",
+        "Código Enquadramento": "5169",
+        "Desdobramento": "3",
+        "Tipificação": "Dirigir sob influência de substância que determine dependência física ou psíquica ."
+    },
+    {
+        "Amparo": "166",
+        "Código Enquadramento": "5177",
+        "Desdobramento": "0",
+        "Tipificação": "Confiar ou entregar a direção do veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigi-lo com segurança ."
+    },
+    {
+        "Amparo": "166",
+        "Código Enquadramento": "5177",
+        "Desdobramento": "1",
+        "Tipificação": "Confiar a direção de veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigi-lo com segurança ."
+    },
+    {
+        "Amparo": "166",
+        "Código Enquadramento": "5177",
+        "Desdobramento": "2",
+        "Tipificação": "Entregar a direção de veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigi-lo com segurança."
+    },
+    {
+        "Amparo": "167",
+        "Código Enquadramento": "5185",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar o condutor ou passageiro de usar o cinto de segurança."
+    },
+    {
+        "Amparo": "167",
+        "Código Enquadramento": "5185",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar o condutor de usar o cinto de segurança."
+    },
+    {
+        "Amparo": "167",
+        "Código Enquadramento": "5185",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar o passageiro de usar o cinto de segurança."
+    },
+    {
+        "Amparo": "168",
+        "Código Enquadramento": "5193",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar criança sem observância das normas de segurança estabelecidas p/ CTB."
+    },
+    {
+        "Amparo": "169",
+        "Código Enquadramento": "5207",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir sem atenção ou sem os cuidados indispensáveis a segurança ."
+    },
+    {
+        "Amparo": "171",
+        "Código Enquadramento": "5223",
+        "Desdobramento": "3",
+        "Tipificação": "Usar o veículo para arremessar detritos sobre os pedestres."
+    },
+    {
+        "Amparo": "171",
+        "Código Enquadramento": "5223",
+        "Desdobramento": "4",
+        "Tipificação": "Usar o veículo para arremessar detritos sobre os veículos ."
+    },
+    {
+        "Amparo": "170",
+        "Código Enquadramento": "5215",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir ameaçando os pedestres que estejam atravessando a via pública ou os demais veículos ."
+    },
+    {
+        "Amparo": "170",
+        "Código Enquadramento": "5215",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir ameaçando os pedestres que estejam atravessando a via pública ."
+    },
+    {
+        "Amparo": "170",
+        "Código Enquadramento": "5215",
+        "Desdobramento": "2",
+        "Tipificação": "Dirigir ameaçando os demais veículos."
+    },
+    {
+        "Amparo": "171",
+        "Código Enquadramento": "5223",
+        "Desdobramento": "0",
+        "Tipificação": "Usar o veículo para arremessar água ou detritos sobre os pedestres ou veículos."
+    },
+    {
+        "Amparo": "171",
+        "Código Enquadramento": "5223",
+        "Desdobramento": "1",
+        "Tipificação": "Usar o veículo para arremessar águaou detritos sobre os pedestres ."
+    },
+    {
+        "Amparo": "171",
+        "Código Enquadramento": "5223",
+        "Desdobramento": "2",
+        "Tipificação": "Usar o veículo para arremessar água ou detritos sobre os veículos ."
+    },
+    {
+        "Amparo": "172",
+        "Código Enquadramento": "5231",
+        "Desdobramento": "0",
+        "Tipificação": "Atirar do veículo ou abandonar na via pública objetos ou substâncias."
+    },
+    {
+        "Amparo": "172",
+        "Código Enquadramento": "5231",
+        "Desdobramento": "1",
+        "Tipificação": "Atirar do veículo na via pública objetos ou substâncias ."
+    },
+    {
+        "Amparo": "172",
+        "Código Enquadramento": "5231",
+        "Desdobramento": "2",
+        "Tipificação": "Abandonar na via pública objetos ou substâncias ."
+    },
+    {
+        "Amparo": "173",
+        "Código Enquadramento": "5240",
+        "Desdobramento": "0",
+        "Tipificação": "Disputar corrida por espírito de emulação ."
+    },
+    {
+        "Amparo": "174",
+        "Código Enquadramento": "5258",
+        "Desdobramento": "0",
+        "Tipificação": "Promover na via, competição esportiva, eventos organizados, exibição e demonstração de perícia em manobras de veículos, sem permissão da Autoridade de Trânsito com circunscrição sob a via ."
+    },
+    {
+        "Amparo": "174",
+        "Código Enquadramento": "5258",
+        "Desdobramento": "1",
+        "Tipificação": "Promover na via competição esportiva sem permissão."
+    },
+    {
+        "Amparo": "174",
+        "Código Enquadramento": "5258",
+        "Desdobramento": "2",
+        "Tipificação": "Promover na via eventos organizados sem permissão ."
+    },
+    {
+        "Amparo": "174",
+        "Código Enquadramento": "5258",
+        "Desdobramento": "3",
+        "Tipificação": "Promover na via exibição e demonstração de perícia em manobra de veículo."
+    },
+    {
+        "Amparo": "174",
+        "Código Enquadramento": "5266",
+        "Desdobramento": "0",
+        "Tipificação": "Participar na via, como condutor de competição esportiva, eventos organizados, exibição e demonstração de perícia em manobra de veículo, sem permissão da Autoridade de Trânsito com circunscrição sobre a via."
+    },
+    {
+        "Amparo": "176 I",
+        "Código Enquadramento": "5282",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar o Condutor envolvido em acidentes com vítima de prestar socorro a vítima, podendo faze-lo."
+    },
+    {
+        "Amparo": "176 I",
+        "Código Enquadramento": "5282",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar o Condutor envolvido em acidentes com vítima de providenciar socorro a vítima, podendo faze -lo."
+    },
+    {
+        "Amparo": "174",
+        "Código Enquadramento": "5266",
+        "Desdobramento": "1",
+        "Tipificação": "Participar na via como condutor em competição esportiva, sem permissão."
+    },
+    {
+        "Amparo": "174",
+        "Código Enquadramento": "5266",
+        "Desdobramento": "2",
+        "Tipificação": "Participar na via, como condutor de eventos organizados sem permissão da Autoridade de Trânsito com circunscrição sobre a via ."
+    },
+    {
+        "Amparo": "174",
+        "Código Enquadramento": "5266",
+        "Desdobramento": "3",
+        "Tipificação": "Participar na via, como condutor de exibição e demonstração de períciaem manobra de veículo, sem permissão da Autoridade de Trânsito com circunscrição sobre a via."
+    },
+    {
+        "Amparo": "175",
+        "Código Enquadramento": "5274",
+        "Desdobramento": "0",
+        "Tipificação": "Utilizar-se do veículo para, em via pública, demonstrar ou exibir manobra perigosa, arrancada brusca, derrapagem ou frenagem com deslizamento ou arrastamento de pneus."
+    },
+    {
+        "Amparo": "175",
+        "Código Enquadramento": "5274",
+        "Desdobramento": "1",
+        "Tipificação": "Utilizar-se de veículo para, em via pública, demonstrar ou exibirmanobra perigosa com deslizamento ou arrastamento de pneus ."
+    },
+    {
+        "Amparo": "175",
+        "Código Enquadramento": "5274",
+        "Desdobramento": "2",
+        "Tipificação": "Utilizar-se de veículo para, em via pública, demonstrar ou exibirarrancada brusca com deslizamento ou arrastamento de pneus ."
+    },
+    {
+        "Amparo": "179 I",
+        "Código Enquadramento": "5355",
+        "Desdobramento": "1",
+        "Tipificação": "Fazer reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção em que o veículo esteja devidamente sinalizado, em pista de rolamento de rodovia e via de trânsito rápido."
+    },
+    {
+        "Amparo": "179 I",
+        "Código Enquadramento": "5355",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar que se faça reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção em que o veículo esteja devidamente sinalizado, em pista de rolamento de rodovia e via de trânsito rápido ."
+    },
+    {
+        "Amparo": "175",
+        "Código Enquadramento": "5274",
+        "Desdobramento": "3",
+        "Tipificação": "Utilizar-se de veículo para, em via pública, demonstrar ou exibirderrapagem ou frenagem com deslizamento ou arrastamento de pneus ."
+    },
+    {
+        "Amparo": "179 II",
+        "Código Enquadramento": "5363",
+        "Desdobramento": "1",
+        "Tipificação": "Fazer reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção em que o veículo esteja devidamente sinalizado em outras vias além de pista de rolamento de rodovia e de vias de trânsito rápido ."
+    },
+    {
+        "Amparo": "179 II",
+        "Código Enquadramento": "5363",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar que se faça reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção em que o veículo esteja devidamente sinalizado em outras vias além de pista de rolamento de rodovia e de vias de trânsito rápido."
+    },
+    {
+        "Amparo": "176 I",
+        "Código Enquadramento": "5282",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar o condutor envolvido em acidente com vítima de prestar ou providenciar socorro à vítima, podendo faze-lo ."
+    },
+    {
+        "Amparo": "176 II",
+        "Código Enquadramento": "5290",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar o condutor envolvido em acidentes com vítima de adotar providências, podendofaze-lo, no sentido de evitar perigo para o trânsito no local."
+    },
+    {
+        "Amparo": "176 III",
+        "Código Enquadramento": "5304",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar o condutor envolvido em acidentes com vítima de preservar o local, deforma a facilitar os trabalhos da Polícia e da Perícia."
+    },
+    {
+        "Amparo": "176 IV",
+        "Código Enquadramento": "5312",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar o condutor envolvido em acidentes com vítima, de adotar providências para remover o veículo do local, quando determinado por Policial ou Agente da Autoridade de Trânsito."
+    },
+    {
+        "Amparo": "176 V",
+        "Código Enquadramento": "5320",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar o condutor, envolvido em acidentes com vítima de identificar-se ao Policial e de lhe prestar informações necessárias a confecção do Boletim de Ocorrência."
+    },
+    {
+        "Amparo": "177",
+        "Código Enquadramento": "5339",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar o condutor de prestar socorro a vítima de acidente de trânsito, quando solicitado pela Autoridade ou seus Agentes."
+    },
+    {
+        "Amparo": "178",
+        "Código Enquadramento": "5347",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar o condutor, envolvido em acidente sem vítima, de adotar providências para remover o veículo do local, quando necessário tal medida assegurar a segurança e a fluidez do trânsito ."
+    },
+    {
+        "Amparo": "179 I",
+        "Código Enquadramento": "5355",
+        "Desdobramento": "0",
+        "Tipificação": "Fazer ou deixar que sefaça reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção e em que o veículo esteja devidamente sinalizado em pista derolamento de rodovias e vias de trânsito rápido ."
+    },
+    {
+        "Amparo": "179 II",
+        "Código Enquadramento": "5363",
+        "Desdobramento": "0",
+        "Tipificação": "Fazer ou deixar que sefaça reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção e me que o veículo esteja devidamente sinalizado, em outras vias além de pista de rolamento de rodovias e vias de trânsito rápido ."
+    },
+    {
+        "Amparo": "180",
+        "Código Enquadramento": "5371",
+        "Desdobramento": "0",
+        "Tipificação": "Ter o veículo imobilizado na via por falta de combustível ."
+    },
+    {
+        "Amparo": "181 VI",
+        "Código Enquadramento": "5436",
+        "Desdobramento": "1",
+        "Tipificação": "Estacionar o veículo junto a hidrantes de incêndio, desde que devidamente identificado, conforme especificação do CONTRAN ."
+    },
+    {
+        "Amparo": "181 VI",
+        "Código Enquadramento": "5436",
+        "Desdobramento": "2",
+        "Tipificação": "Estacionar o veículo junto a registro de água, desde que devidamente identificado, conforme especificação do CONTRAN."
+    },
+    {
+        "Amparo": "181 VI",
+        "Código Enquadramento": "5436",
+        "Desdobramento": "3",
+        "Tipificação": "Estacionar o veículo junto de tampas de poços de visita de galerias subterrâneas, desde que devidamente identificado, conforme especificação do CONTRAN ."
+    },
+    {
+        "Amparo": "181 VI",
+        "Código Enquadramento": "5436",
+        "Desdobramento": "4",
+        "Tipificação": "Estacionar o veículo sobre hidrantes de incêndio, desde que devidamente identificado, conforme especificação do CONTRAN ."
+    },
+    {
+        "Amparo": "181 VI",
+        "Código Enquadramento": "5436",
+        "Desdobramento": "5",
+        "Tipificação": "Estacionar o veículo sobre registro de água, desde que devidamente identificado, conforme especificação do CONTRAN."
+    },
+    {
+        "Amparo": "181 VI",
+        "Código Enquadramento": "5436",
+        "Desdobramento": "6",
+        "Tipificação": "Estacionar o veículo sobre de tampas de poços de visita de galerias subterrâneas, desde que devidamente identificado, conforme especificação do CONTRAN ."
+    },
+    {
+        "Amparo": "181 I",
+        "Código Enquadramento": "5380",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo nas esquinas e a menos de cinco metros do bordo do alinhamento da via transversal."
+    },
+    {
+        "Amparo": "181 II",
+        "Código Enquadramento": "5398",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo afastado da guia da guia da calçada (meio-fio) de cinqüenta centímetros a um metro ."
+    },
+    {
+        "Amparo": "181 III",
+        "Código Enquadramento": "5401",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo afastado da guia da guia da calçada (meio-fio) amais de um metro ."
+    },
+    {
+        "Amparo": "181 IV",
+        "Código Enquadramento": "5410",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo em desacordo com as posições estabelecidas no CTB."
+    },
+    {
+        "Amparo": "181 V",
+        "Código Enquadramento": "5428",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo na pista de rolamento das estradas, das rodovias, das vias de trânsito rápido e das vias dotadas de acostamento."
+    },
+    {
+        "Amparo": "181 V",
+        "Código Enquadramento": "5428",
+        "Desdobramento": "1",
+        "Tipificação": "Estacionar o veículo na pista de rolamentos das estradas."
+    },
+    {
+        "Amparo": "181 V",
+        "Código Enquadramento": "5428",
+        "Desdobramento": "2",
+        "Tipificação": "Estacionar o veículo na pista de rolamentos das rodovias."
+    },
+    {
+        "Amparo": "181 V",
+        "Código Enquadramento": "5428",
+        "Desdobramento": "3",
+        "Tipificação": "Estacionar o veículo na pista de rolamentos das vias de trânsito rápido ."
+    },
+    {
+        "Amparo": "181 V",
+        "Código Enquadramento": "5428",
+        "Desdobramento": "4",
+        "Tipificação": "Estacionar o veículo na pista de rolamentos das vias dotadas de acostamento ."
+    },
+    {
+        "Amparo": "181 VI",
+        "Código Enquadramento": "5436",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo junto ou sobre hidrantes de incêndio, registro de água ou tampas de poços de visita de galerias subterrâneas, desde que devidamente identificado, conforme especificação do CONTRAN Estacionar o veículo junto hidrantes de incêndio, desde que devidamente identificado, conforme especificação do CONTRAN."
+    },
+    {
+        "Amparo": "181 VII",
+        "Código Enquadramento": "5444",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo nos acostamentos salvo por motivo de força maior ."
+    },
+    {
+        "Amparo": "181 XIII",
+        "Código Enquadramento": "5509",
+        "Desdobramento": "1",
+        "Tipificação": "Estacionar o veículo onde houver sinalização horizontal delimitadora de ponto de embarque ou desembarque de passageiros de transporte coletivo."
+    },
+    {
+        "Amparo": "181 XIII",
+        "Código Enquadramento": "5509",
+        "Desdobramento": "2",
+        "Tipificação": "Estacionar o veículo quando houver sinalização horizontal delimitadora de ponto de embarque ou desembarque de passageiros de transporte coletivo, no intervalo compreendido entre dez metros antes e depois do marco do ponto ."
+    },
+    {
+        "Amparo": "181 VIII",
+        "Código Enquadramento": "5452",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo no passeio ou sobre a faixa destinada a pedestres, sobre ciclovias ou ciclofaixas, bem como nas ilhas, refúgios, ao lado ou sobre canteiros centrais, divisores de pista de rolamento, marcas de canalização, gramados ou jardins públicos ."
+    },
+    {
+        "Amparo": "181 VIII",
+        "Código Enquadramento": "5452",
+        "Desdobramento": "1",
+        "Tipificação": "Estacionar o veículo no passeio ."
+    },
+    {
+        "Amparo": "181 VIII",
+        "Código Enquadramento": "5452",
+        "Desdobramento": "2",
+        "Tipificação": "Estacionar o veículo sobre faixas destinadas a pedestres."
+    },
+    {
+        "Amparo": "181 VIII",
+        "Código Enquadramento": "5452",
+        "Desdobramento": "3",
+        "Tipificação": "Estacionar o veículo sobre ciclovia ou ciclofaixa ."
+    },
+    {
+        "Amparo": "181 VIII",
+        "Código Enquadramento": "5452",
+        "Desdobramento": "4",
+        "Tipificação": "Estacionarnas ilhas ou refúgios ."
+    },
+    {
+        "Amparo": "181 VIII",
+        "Código Enquadramento": "5452",
+        "Desdobramento": "5",
+        "Tipificação": "Estacionarao lado ou sobre canteiro central/divisores de pista de rolamento ."
+    },
+    {
+        "Amparo": "181VIII",
+        "Código Enquadramento": "5452",
+        "Desdobramento": "6",
+        "Tipificação": "Estacionarao lado ou sobre marcas de canalização."
+    },
+    {
+        "Amparo": "181 VIII",
+        "Código Enquadramento": "5452",
+        "Desdobramento": "7",
+        "Tipificação": "Estacionarao lado ou sobre gramado ou jardim público."
+    },
+    {
+        "Amparo": "181 VIII",
+        "Código Enquadramento": "5452",
+        "Desdobramento": "8",
+        "Tipificação": "Estacionar o veículo ao lado de canteiros centrais."
+    },
+    {
+        "Amparo": "181 IX",
+        "Código Enquadramento": "5460",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo onde houver guia de calçada (meio-fio) rebaixada, destinada à entrada ou saída de veículo."
+    },
+    {
+        "Amparo": "181 X",
+        "Código Enquadramento": "5479",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo impedindo a movimentação de outro veículo."
+    },
+    {
+        "Amparo": "181 XI",
+        "Código Enquadramento": "5487",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo ao lado de outro veículo em fila dupla ."
+    },
+    {
+        "Amparo": "181 XII",
+        "Código Enquadramento": "5495",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo na área de cruzamento de vias, prejudicando a circulação de veículos e pedestres ."
+    },
+    {
+        "Amparo": "181 XIII",
+        "Código Enquadramento": "5509",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo onde houver sinalização horizontal delimitadora de ponto de embarque ou desembarque de passageiros de transporte coletivo, ou na inexistência dessa sinalização, no intervalo compreendido entre dez metros antes e depois do marco do ponto ."
+    },
+    {
+        "Amparo": "181 XIV",
+        "Código Enquadramento": "5517",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo nos viadutos, pontes e túneis."
+    },
+    {
+        "Amparo": "181 XIV",
+        "Código Enquadramento": "5517",
+        "Desdobramento": "1",
+        "Tipificação": "Estacionar o veículo nos viadutos ."
+    },
+    {
+        "Amparo": "181 XIV",
+        "Código Enquadramento": "5517",
+        "Desdobramento": "2",
+        "Tipificação": "Estacionar o veículo nas pontes ."
+    },
+    {
+        "Amparo": "181 XIV",
+        "Código Enquadramento": "5517",
+        "Desdobramento": "3",
+        "Tipificação": "Estacionar o veículo nos túneis ."
+    },
+    {
+        "Amparo": "181 XV",
+        "Código Enquadramento": "5525",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo na contra mão de direção ."
+    },
+    {
+        "Amparo": "181 XVI",
+        "Código Enquadramento": "5533",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo em aclive ou declive, não estando devidamente freado e sem calço de segurança, quando se tratar de veículo com peso bruto totalsuperior a três mil e quinhentos quilogramas."
+    },
+    {
+        "Amparo": "181 XVI",
+        "Código Enquadramento": "5533",
+        "Desdobramento": "1",
+        "Tipificação": "Estacionar o veículo em aclive, não estando devidamente freado e sem calço de segurança, quando se tratar de veículo com peso bruto totalsuperior a três mil e quinhentos quilogramas ."
+    },
+    {
+        "Amparo": "181 XVI",
+        "Código Enquadramento": "5533",
+        "Desdobramento": "2",
+        "Tipificação": "Estacionar o veículo em declive, não estando devidamente freado e sem calço de segurança, quando se tratar de veículo com peso bruto totalsuperior a três mil e quinhentos quilogramas."
+    },
+    {
+        "Amparo": "181 XVII",
+        "Código Enquadramento": "5541",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - estacionamento regulamentado)."
+    },
+    {
+        "Amparo": "181 XVII",
+        "Código Enquadramento": "5541",
+        "Desdobramento": "1",
+        "Tipificação": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização."
+    },
+    {
+        "Amparo": "181 XVII",
+        "Código Enquadramento": "5541",
+        "Desdobramento": "2",
+        "Tipificação": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - estacionamento rotativo)."
+    },
+    {
+        "Amparo": "181 XVII",
+        "Código Enquadramento": "5541",
+        "Desdobramento": "3",
+        "Tipificação": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - ponto ou vaga de táxi)."
+    },
+    {
+        "Amparo": "181 XVII",
+        "Código Enquadramento": "5541",
+        "Desdobramento": "4",
+        "Tipificação": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - área de carga e descarga)."
+    },
+    {
+        "Amparo": "181 XVII",
+        "Código Enquadramento": "5541",
+        "Desdobramento": "5",
+        "Tipificação": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - vaga para portadores de necessidades especiais)."
+    },
+    {
+        "Amparo": "181 XVIII",
+        "Código Enquadramento": "5550",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar veículo em locais e horários proibidos especificamente pela sinalização."
+    },
+    {
+        "Amparo": "182 I",
+        "Código Enquadramento": "5576",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo nas esquinas a menos de cinco metros do bordo do alinhamento da via ."
+    },
+    {
+        "Amparo": "182 II",
+        "Código Enquadramento": "5584",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo afastado da guia da calçada (meio-fio) de cinqüenta centímetros a um metro."
+    },
+    {
+        "Amparo": "182 III",
+        "Código Enquadramento": "5592",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo afastado da guia da calçada (meio-fio) a mais de um metro ."
+    },
+    {
+        "Amparo": "182 IV",
+        "Código Enquadramento": "5606",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo em desacordo com as posições estabelecidas no CTB ."
+    },
+    {
+        "Amparo": "182 V",
+        "Código Enquadramento": "5614",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo na pista de rolamento das estradas, das rodovias , das vias de trânsito rápido e das demais vias dotadas de acostamento ."
+    },
+    {
+        "Amparo": "182-V",
+        "Código Enquadramento": "5614",
+        "Desdobramento": "1",
+        "Tipificação": "Parar o veículo na pista de rolamento das estradas dotadas de acostamento ."
+    },
+    {
+        "Amparo": "182-V",
+        "Código Enquadramento": "5614",
+        "Desdobramento": "2",
+        "Tipificação": "Parar na pista de rolamento das rodovias."
+    },
+    {
+        "Amparo": "182-V",
+        "Código Enquadramento": "5614",
+        "Desdobramento": "3",
+        "Tipificação": "Parar na pista de rolamento das vias de trânsito rápido."
+    },
+    {
+        "Amparo": "182-V",
+        "Código Enquadramento": "5614",
+        "Desdobramento": "4",
+        "Tipificação": "Parar o veículo na pista de rolamento das demais vias dotadas de acostamento."
+    },
+    {
+        "Amparo": "182 VI",
+        "Código Enquadramento": "5622",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo no passeio, sobre faixa destinada a pedestre, nas ilhas, refúgios, canteiros centrais e divisores de pista de rolamento e marcas de canalização ."
+    },
+    {
+        "Amparo": "182 VI",
+        "Código Enquadramento": "5622",
+        "Desdobramento": "1",
+        "Tipificação": "Para o veículo no passeio ."
+    },
+    {
+        "Amparo": "182 VI",
+        "Código Enquadramento": "5622",
+        "Desdobramento": "2",
+        "Tipificação": "Para o veículo sobre a faixa destinada a pedestres."
+    },
+    {
+        "Amparo": "182 VI",
+        "Código Enquadramento": "5622",
+        "Desdobramento": "3",
+        "Tipificação": "Para o veículo nas ilhas."
+    },
+    {
+        "Amparo": "182 VI",
+        "Código Enquadramento": "5622",
+        "Desdobramento": "4",
+        "Tipificação": "Pararnos canteiros centrais/divisores de pista de rolamento ."
+    },
+    {
+        "Amparo": "9.602/98",
+        "Código Enquadramento": "5754",
+        "Desdobramento": "0",
+        "Tipificação": "REVOGADO PELA LEI 9.602/98 ******** ********# ."
+    },
+    {
+        "Amparo": "182 VI",
+        "Código Enquadramento": "5622",
+        "Desdobramento": "5",
+        "Tipificação": "Parar em marcas de canalização ."
+    },
+    {
+        "Amparo": "188",
+        "Código Enquadramento": "5762",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar ao lado de outro veículo interrompendo o trânsito ."
+    },
+    {
+        "Amparo": "188",
+        "Código Enquadramento": "5762",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar ao lado de outro veículo perturbando o trânsito ."
+    },
+    {
+        "Amparo": "182 VI",
+        "Código Enquadramento": "5622",
+        "Desdobramento": "6",
+        "Tipificação": "Para o veículo nos divisores de pistas de rolamento ."
+    },
+    {
+        "Amparo": "182 VI",
+        "Código Enquadramento": "5622",
+        "Desdobramento": "7",
+        "Tipificação": "Parar o veículo nas marcas de canalização ."
+    },
+    {
+        "Amparo": "182 VII",
+        "Código Enquadramento": "5630",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo na área de cruzamento de vias, prejudicando a circulação de veículos e pedestres."
+    },
+    {
+        "Amparo": "182 VII",
+        "Código Enquadramento": "5630",
+        "Desdobramento": "1",
+        "Tipificação": "Parar o veículo na área de cruzamento de vias, prejudicando a circulação de veículos."
+    },
+    {
+        "Amparo": "182 VII",
+        "Código Enquadramento": "5630",
+        "Desdobramento": "2",
+        "Tipificação": "Parar o veículo na área de cruzamento de vias, prejudicando a circulação de pedestres ."
+    },
+    {
+        "Amparo": "182 VIII",
+        "Código Enquadramento": "5649",
+        "Desdobramento": "0",
+        "Tipificação": "Parar os veículos nos viadutos, pontes e túneis ."
+    },
+    {
+        "Amparo": "182 VIII",
+        "Código Enquadramento": "5649",
+        "Desdobramento": "1",
+        "Tipificação": "Parar o veículo nos viadutos."
+    },
+    {
+        "Amparo": "182 VIII",
+        "Código Enquadramento": "5649",
+        "Desdobramento": "2",
+        "Tipificação": "Parar o veículo nas pontes."
+    },
+    {
+        "Amparo": "182 VIII",
+        "Código Enquadramento": "5649",
+        "Desdobramento": "3",
+        "Tipificação": "Parar o veículo nos túneis."
+    },
+    {
+        "Amparo": "182 IX",
+        "Código Enquadramento": "5657",
+        "Desdobramento": "0",
+        "Tipificação": "Para o veículo na contra mão de direção ."
+    },
+    {
+        "Amparo": "182 X",
+        "Código Enquadramento": "5665",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo em local e horário proibido especificamente pela sinalização."
+    },
+    {
+        "Amparo": "183",
+        "Código Enquadramento": "5673",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo sobre a faixa de pedestre na mudança de sinal luminoso."
+    },
+    {
+        "Amparo": "183",
+        "Código Enquadramento": "5673",
+        "Desdobramento": "1",
+        "Tipificação": "Parar o veículo sobre a faixa de pedestre na mudança de sinal luminoso."
+    },
+    {
+        "Amparo": "183",
+        "Código Enquadramento": "5673",
+        "Desdobramento": "2",
+        "Tipificação": "Parar o veículo sobre a faixa de pedestre na mudança de sinal luminoso ? fiscalização eletrônica."
+    },
+    {
+        "Amparo": "184 I",
+        "Código Enquadramento": "5681",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo na faixa ou na pista da direita regulamentada como de circulação exclusiva para determinado tipo de veículo, exceto para acesso a imóveis lindeiros ou conversões a direita ."
+    },
+    {
+        "Amparo": "184 I",
+        "Código Enquadramento": "5681",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo na faixa da direita regulamentada como de circulação exclusiva para determinado tipo de veículo, exceto para acesso a imóveis lindeiros ou conversões a direita ."
+    },
+    {
+        "Amparo": "184 I",
+        "Código Enquadramento": "5681",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo na pista da direita regulamentada como de circulação exclusiva para determinado tipo de veículo, exceto para acesso a imóveis lindeiros ou conversões a direita ."
+    },
+    {
+        "Amparo": "184 II",
+        "Código Enquadramento": "5690",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar co o veículo na faixa ou pista da esquerda regulamentada como de circulação exclusiva para determinado tipo de veículo."
+    },
+    {
+        "Amparo": "184 II",
+        "Código Enquadramento": "5690",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo na faixa da esquerda regulamentada como de circulação exclusiva para determinado tipo de veículo."
+    },
+    {
+        "Amparo": "184 II",
+        "Código Enquadramento": "5690",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo na pista da esquerda regulamentada como de circulação exclusiva para determinado tipo de veículo."
+    },
+    {
+        "Amparo": "185 I",
+        "Código Enquadramento": "5703",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de conservar o veículo, quando estiver em movimento, na faixa a ele destinada pela sinalização de regulamentação, exceto em situação de emergência ."
+    },
+    {
+        "Amparo": "185 II",
+        "Código Enquadramento": "5711",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de conservar o veículo lento e de maior porte, quando estiver em movimento nas faixas da direita ."
+    },
+    {
+        "Amparo": "186 I",
+        "Código Enquadramento": "5720",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar pela contra-mão de direção em vias de duplo sentido de circulação, exceto para ultrapassar outro veículo e apenas pelo tempo necessário, respeitada a preferência do veículo que transitar em sentido contrário ."
+    },
+    {
+        "Amparo": "186 II",
+        "Código Enquadramento": "5738",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar pela contra-mão de direção em vias com sinalização de regulamentação de sentido único de circulação ."
+    },
+    {
+        "Amparo": "187 I",
+        "Código Enquadramento": "5746",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar em locais e horários não permitidos pela regulamentação estabelecida pela Autoridade competente, para todos os veículos ."
+    },
+    {
+        "Amparo": "187 I",
+        "Código Enquadramento": "5746",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar em locais e horários não permitidos pela regulamentação estabelecida pela Autoridade competente, para todos os veículos ."
+    },
+    {
+        "Amparo": "187 I",
+        "Código Enquadramento": "5746",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar em locais e horários não permitidos pela regulamentação estabelecida pela Autoridade competente, para todos os veículos - rodízio ."
+    },
+    {
+        "Amparo": "188",
+        "Código Enquadramento": "5762",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar ao lado de outro veículo interrompendo ou perturbando o trânsito."
+    },
+    {
+        "Amparo": "189",
+        "Código Enquadramento": "5770",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de dar passagem aos veículos precedidos de batedores, de socorro de incêndio e salvamento, de polícia, de operação e fiscalização de trânsito e as ambulâncias quando em serviço de urgência e devidamente identificados pordispositivos regulamentados de alarme sonoro e iluminação vermelha intermitente."
+    },
+    {
+        "Amparo": "189",
+        "Código Enquadramento": "5770",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de dar passagem aos veículos precedidos de batedores quando em serviço de urgência e devidamente identificado pordispositivos regulamentados de alarme sonora e iluminação vermelha intermitente ."
+    },
+    {
+        "Amparo": "189",
+        "Código Enquadramento": "5770",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de dar passagem aos veículos de socorro de incêndio e de salvamento quando em serviço de urgência e devidamente identificado pordispositivos regulamentados de alarme sonora e iluminação vermelha intermitente."
+    },
+    {
+        "Amparo": "189",
+        "Código Enquadramento": "5770",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de dar passagem aos veículos de polícia quando em serviço de urgência e devidamente identificado por dispositivos regulamentados de alarme sonoro e iluminação vermelha intermitente ."
+    },
+    {
+        "Amparo": "189",
+        "Código Enquadramento": "5770",
+        "Desdobramento": "4",
+        "Tipificação": "Deixar de dar passagem aos veículos de operação e fiscalização de trânsito quando em serviço de urgência e devidamente identificado pordispositivos regulamentados de alarme sonoro e iluminação vermelha intermitente."
+    },
+    {
+        "Amparo": "189",
+        "Código Enquadramento": "5770",
+        "Desdobramento": "5",
+        "Tipificação": "Deixar de dar passagem às ambulâncias quando em serviço de urgência e devidamente identificado pordispositivos regulamentados de alarme sonoro e iluminação vermelha intermitente ."
+    },
+    {
+        "Amparo": "190",
+        "Código Enquadramento": "5789",
+        "Desdobramento": "0",
+        "Tipificação": "Seguir veículo em serviço de urgência, estando este com prioridade de passagem devidamente identificada por dispositivos regulamentares de alarme sonoro e iluminação vermelha intermitente ."
+    },
+    {
+        "Amparo": "191",
+        "Código Enquadramento": "5797",
+        "Desdobramento": "0",
+        "Tipificação": "Forçar passagem entre veículos que transitando em sentido opostos, estejam na eminência de passar um pelo outro ao realizar operação de ultrapassagem ."
+    },
+    {
+        "Amparo": "192",
+        "Código Enquadramento": "5800",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de guardar distância de segurança lateral e frontal entre o seu veículo e os demais, bem como, em relação ao bordo da pista considerando-se no momento a velocidade, as condições climáticas do local, da circulação e do veículo."
+    },
+    {
+        "Amparo": "193",
+        "Código Enquadramento": "5819",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo em calçadas, passeios, passarelas, ciclovias, ciclofaixas, ilhas, refúgios, ajardinamentos, canteiros centrais e divisores de pista de rolamento, acostamentos, marcas de canalização, gramados e jardins públicos."
+    },
+    {
+        "Amparo": "193",
+        "Código Enquadramento": "5819",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo em calçadas, passeios ."
+    },
+    {
+        "Amparo": "200",
+        "Código Enquadramento": "5886",
+        "Desdobramento": "1",
+        "Tipificação": "Ultrapassar pela direita, veículo de transporte coletivo, parado para embarque ou desembarque de passageiros salvo quando houver refúgio para o pedestre."
+    },
+    {
+        "Amparo": "200",
+        "Código Enquadramento": "5886",
+        "Desdobramento": "2",
+        "Tipificação": "Ultrapassar pela direita, veículo de transporte de escolares, parado para embarque ou desembarque de passageiros, salvo quando houver refúgio para o pedestre ."
+    },
+    {
+        "Amparo": "193",
+        "Código Enquadramento": "5819",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo em ciclovias/ciclofaixas."
+    },
+    {
+        "Amparo": "201",
+        "Código Enquadramento": "5894",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de guardar a distância lateral de um metro e cinqüenta centímetros, ao passar bicicleta."
+    },
+    {
+        "Amparo": "201",
+        "Código Enquadramento": "5894",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de guardar a distância lateral de um metro e cinqüenta centímetros, ao ultrapassar bicicleta ."
+    },
+    {
+        "Amparo": "193",
+        "Código Enquadramento": "5819",
+        "Desdobramento": "3",
+        "Tipificação": "Transitar com o veículo em ajardinamento, gramados/jardins públicos ."
+    },
+    {
+        "Amparo": "193",
+        "Código Enquadramento": "5819",
+        "Desdobramento": "4",
+        "Tipificação": "Transitar com o veículo em canteiro central ."
+    },
+    {
+        "Amparo": "193",
+        "Código Enquadramento": "5819",
+        "Desdobramento": "5",
+        "Tipificação": "Transitar com o veículo em ilhas/refúgios ."
+    },
+    {
+        "Amparo": "193",
+        "Código Enquadramento": "5819",
+        "Desdobramento": "6",
+        "Tipificação": "Transitar com o veículo em divisores de pista de rolamento/marcas de canalização."
+    },
+    {
+        "Amparo": "193",
+        "Código Enquadramento": "5819",
+        "Desdobramento": "7",
+        "Tipificação": "Transitar com o veículo em acostamento."
+    },
+    {
+        "Amparo": "193",
+        "Código Enquadramento": "5819",
+        "Desdobramento": "8",
+        "Tipificação": "Transitar com o veículo empassarelas."
+    },
+    {
+        "Amparo": "194",
+        "Código Enquadramento": "5827",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar de marcha à ré, salvo na distância necessária a pequenas manobras e de forma a não causar riscos à segurança."
+    },
+    {
+        "Amparo": "195",
+        "Código Enquadramento": "5835",
+        "Desdobramento": "0",
+        "Tipificação": "Desobedecer às ordens emanadas da Autoridade competente de trânsito ou seus Agentes ."
+    },
+    {
+        "Amparo": "196",
+        "Código Enquadramento": "5843",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, o início da marcha, a realização da manobra de parar o veículo, a mudança de direção ou de faixa de circulação."
+    },
+    {
+        "Amparo": "196",
+        "Código Enquadramento": "5843",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, o início da marcha."
+    },
+    {
+        "Amparo": "196",
+        "Código Enquadramento": "5843",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, a realização da manobra de parar o veículo."
+    },
+    {
+        "Amparo": "196",
+        "Código Enquadramento": "5843",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, a mudança de direção."
+    },
+    {
+        "Amparo": "205",
+        "Código Enquadramento": "5983",
+        "Desdobramento": "1",
+        "Tipificação": "Ultrapassar veículo em movimento que integre cortejo salvo, com autorização da Autoridade de Trânsito ou seus Agentes ."
+    },
+    {
+        "Amparo": "205",
+        "Código Enquadramento": "5983",
+        "Desdobramento": "2",
+        "Tipificação": "Ultrapassar veículo em movimento que integre préstito salvo, com autorização da Autoridade de Trânsito ou seus Agentes."
+    },
+    {
+        "Amparo": "205",
+        "Código Enquadramento": "5983",
+        "Desdobramento": "3",
+        "Tipificação": "Ultrapassar veículo em movimento que integre desfile salvo, com autorização da Autoridade de Trânsito ou seus Agentes ."
+    },
+    {
+        "Amparo": "205",
+        "Código Enquadramento": "5983",
+        "Desdobramento": "4",
+        "Tipificação": "Ultrapassar veículo em movimento que integre formações militares salvo, com autorização da Autoridade de Trânsito ou seus Agentes ."
+    },
+    {
+        "Amparo": "196",
+        "Código Enquadramento": "5843",
+        "Desdobramento": "4",
+        "Tipificação": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, a mudança de faixa de circulação."
+    },
+    {
+        "Amparo": "197",
+        "Código Enquadramento": "5851",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de deslocar com antecedência, o veículo para a faixa mais a esquerda ou mais a direita dentro da respectiva mão de direção quando for manobrar para um desses lados."
+    },
+    {
+        "Amparo": "197",
+        "Código Enquadramento": "5851",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de deslocar com antecedência, o veículo para a faixa mais a esquerda dentro da respectiva mão de direção, quando for manobrar para esse lado ."
+    },
+    {
+        "Amparo": "197",
+        "Código Enquadramento": "5851",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de deslocar com antecedência, o veículo para a faixa mais a direita dentro da respectiva mão de direção, quando for manobrar para esse lado."
+    },
+    {
+        "Amparo": "198",
+        "Código Enquadramento": "5860",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de dar passagem pela esquerda quando solicitado."
+    },
+    {
+        "Amparo": "199",
+        "Código Enquadramento": "5878",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar pela direita salvo quando o veículo da frente estiver colocado na faixa apropriada e der sinal de que vai entrar a esquerda ."
+    },
+    {
+        "Amparo": "200",
+        "Código Enquadramento": "5886",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar pela direita, veículo de transporte coletivo ou de escolares, parado para embarque ou desembarque de passageiros salvo quando houver refúgio para o pedestre."
+    },
+    {
+        "Amparo": "201",
+        "Código Enquadramento": "5894",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de guardar a distância lateral de um metro e cinqüenta centímetros, ao passar ou ultrapassar bicicleta ."
+    },
+    {
+        "Amparo": "202 I",
+        "Código Enquadramento": "5908",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar outro veículo pelo acostamento."
+    },
+    {
+        "Amparo": "202 II",
+        "Código Enquadramento": "5916",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar outro veículo em interseções e passagens de nível ."
+    },
+    {
+        "Amparo": "202 II",
+        "Código Enquadramento": "5916",
+        "Desdobramento": "1",
+        "Tipificação": "Ultrapassar outro veículo em interseção ."
+    },
+    {
+        "Amparo": "202 II",
+        "Código Enquadramento": "5916",
+        "Desdobramento": "2",
+        "Tipificação": "Ultrapassar outro veículo em passagem de nível."
+    },
+    {
+        "Amparo": "203 I",
+        "Código Enquadramento": "5924",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar pela contramão outro veículo nas curvas, aclives e declives sem visibilidade suficiente ."
+    },
+    {
+        "Amparo": "206 III",
+        "Código Enquadramento": "6017",
+        "Desdobramento": "7",
+        "Tipificação": "Executar operação de retorno passando por cima de faixas de pedestres ."
+    },
+    {
+        "Amparo": "206 III",
+        "Código Enquadramento": "6017",
+        "Desdobramento": "8",
+        "Tipificação": "Executar operação de retorno passando por cima de faixas de veículos não motorizados."
+    },
+    {
+        "Amparo": "203 I",
+        "Código Enquadramento": "5924",
+        "Desdobramento": "1",
+        "Tipificação": "Ultrapassar pela contramão outro veículo nas curvas sem visibilidade suficiente ."
+    },
+    {
+        "Amparo": "203 I",
+        "Código Enquadramento": "5924",
+        "Desdobramento": "2",
+        "Tipificação": "Ultrapassar pela contramão outro veículo nos aclives sem visibilidade suficiente."
+    },
+    {
+        "Amparo": "203 I",
+        "Código Enquadramento": "5924",
+        "Desdobramento": "3",
+        "Tipificação": "Ultrapassar pela contramão outro veículo nos declives sem visibilidade suficiente ."
+    },
+    {
+        "Amparo": "203 II",
+        "Código Enquadramento": "5932",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar pela contramão outro veículo nas faixas de pedestre ."
+    },
+    {
+        "Amparo": "203 III",
+        "Código Enquadramento": "5940",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar pela contramão outro veículo nas pontes, viadutos e túneis."
+    },
+    {
+        "Amparo": "203 III",
+        "Código Enquadramento": "5940",
+        "Desdobramento": "1",
+        "Tipificação": "Ultrapassar pela contra mão outro veículo nas pontes."
+    },
+    {
+        "Amparo": "203 III",
+        "Código Enquadramento": "5940",
+        "Desdobramento": "2",
+        "Tipificação": "Ultrapassar pela contra mão outro veículo nos viadutos."
+    },
+    {
+        "Amparo": "203 III",
+        "Código Enquadramento": "5940",
+        "Desdobramento": "3",
+        "Tipificação": "Ultrapassar pela contra mão outro veículo nos túneis."
+    },
+    {
+        "Amparo": "203 IV",
+        "Código Enquadramento": "5959",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar pela contramão outro veículo parado em fila junto a sinais luminosos, porteiras, cancelas, cruzamentos ou qualquer outro impedimento a livre circulação ."
+    },
+    {
+        "Amparo": "203 IV",
+        "Código Enquadramento": "5959",
+        "Desdobramento": "1",
+        "Tipificação": "Ultrapassar pela contramão outro veículo parado em fila junto a sinais luminosos."
+    },
+    {
+        "Amparo": "203 IV",
+        "Código Enquadramento": "5959",
+        "Desdobramento": "2",
+        "Tipificação": "Ultrapassar pela contramão outro veículo parado em fila junto a porteiras ."
+    },
+    {
+        "Amparo": "203 IV",
+        "Código Enquadramento": "5959",
+        "Desdobramento": "3",
+        "Tipificação": "Ultrapassar pela contramão veículoparado em fila junto a cruzamento ."
+    },
+    {
+        "Amparo": "203 IV",
+        "Código Enquadramento": "5959",
+        "Desdobramento": "4",
+        "Tipificação": "Ultrapassar pela contramão veíc parado em fila junto qq impedimento à circulação."
+    },
+    {
+        "Amparo": "203 IV",
+        "Código Enquadramento": "5959",
+        "Desdobramento": "5",
+        "Tipificação": "Ultrapassar pela contramão outro veículo parado em fila junto a qualquer outro impedimento à livre circulação ."
+    },
+    {
+        "Amparo": "203 V",
+        "Código Enquadramento": "5967",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar pela contramão linha de divisão de fluxos opostos, contínua amarela ."
+    },
+    {
+        "Amparo": "204",
+        "Código Enquadramento": "5975",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de parar o veículo no acostamento à direita, para aguardar a oportunidade de cruzarpista ou entrar a esquerda, onde não houver local apropriado para operação de retorno ."
+    },
+    {
+        "Amparo": "204",
+        "Código Enquadramento": "5975",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de parar o veículo no acostamento à direita, para aguardar a oportunidade de cruzar a pista, onde não houver local apropriado para operação de retorno ."
+    },
+    {
+        "Amparo": "204",
+        "Código Enquadramento": "5975",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de parar o veículo no acostamento à direita, para aguardar a oportunidade de entrar na pista, onde não houver local apropriado para operação de retorno."
+    },
+    {
+        "Amparo": "205",
+        "Código Enquadramento": "5983",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar veículo em movimento que integre cortejo, préstito, desfile e formações militares, salvo com autorização da Autoridade de Trânsito ou seus Agentes."
+    },
+    {
+        "Amparo": "213 I",
+        "Código Enquadramento": "6106",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de pessoas, como préstitos ."
+    },
+    {
+        "Amparo": "213 I",
+        "Código Enquadramento": "6106",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de pessoas, como passeatas ."
+    },
+    {
+        "Amparo": "213 I",
+        "Código Enquadramento": "6106",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de pessoas, como desfiles e outros ."
+    },
+    {
+        "Amparo": "206 I",
+        "Código Enquadramento": "5991",
+        "Desdobramento": "0",
+        "Tipificação": "Executar operação de retorno em locais proibidos pela sinalização ."
+    },
+    {
+        "Amparo": "213 II",
+        "Código Enquadramento": "6114",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de veículos, como cortejos ."
+    },
+    {
+        "Amparo": "213 II",
+        "Código Enquadramento": "6114",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de veículos, como formações militares e outros ."
+    },
+    {
+        "Amparo": "206 II",
+        "Código Enquadramento": "6009",
+        "Desdobramento": "0",
+        "Tipificação": "Executar operação de retorno nas curvas, aclives, declives, pontes, viadutos e túneis ."
+    },
+    {
+        "Amparo": "206 II",
+        "Código Enquadramento": "6009",
+        "Desdobramento": "1",
+        "Tipificação": "Executar operação de retorno nas curvas ."
+    },
+    {
+        "Amparo": "206 II",
+        "Código Enquadramento": "6009",
+        "Desdobramento": "2",
+        "Tipificação": "Executar operação de retorno nos aclives."
+    },
+    {
+        "Amparo": "206 II",
+        "Código Enquadramento": "6009",
+        "Desdobramento": "3",
+        "Tipificação": "Executar operação de retorno nas pontes ."
+    },
+    {
+        "Amparo": "206 II",
+        "Código Enquadramento": "6009",
+        "Desdobramento": "4",
+        "Tipificação": "Executar operação de retorno nos viadutos ."
+    },
+    {
+        "Amparo": "206 II",
+        "Código Enquadramento": "6009",
+        "Desdobramento": "5",
+        "Tipificação": "Executar operação de retorno nos túneis ."
+    },
+    {
+        "Amparo": "206 II",
+        "Código Enquadramento": "6009",
+        "Desdobramento": "6",
+        "Tipificação": "Executar operação de retorno nos túneis ."
+    },
+    {
+        "Amparo": "206III",
+        "Código Enquadramento": "6017",
+        "Desdobramento": "0",
+        "Tipificação": "Executar operação de retorno passando por cima de calçada, passeio, ilhas, ajardinamentos ou canteiros de divisores de pista de rolamento, refúgios e faixas de pedestres e nas de veículos não motorizados ."
+    },
+    {
+        "Amparo": "206 III",
+        "Código Enquadramento": "6017",
+        "Desdobramento": "1",
+        "Tipificação": "Executar operação de retorno passando por cima de calçada, passeio."
+    },
+    {
+        "Amparo": "206 III",
+        "Código Enquadramento": "6017",
+        "Desdobramento": "2",
+        "Tipificação": "Executar operação de retorno passando por cima deilhas, refúgios."
+    },
+    {
+        "Amparo": "206 III",
+        "Código Enquadramento": "6017",
+        "Desdobramento": "3",
+        "Tipificação": "Executar operação de retorno passando por cima de ajardinamento ."
+    },
+    {
+        "Amparo": "206 III",
+        "Código Enquadramento": "6017",
+        "Desdobramento": "4",
+        "Tipificação": "Executar operação de retorno passando por cima de canteiros divisores de pista de rolamento ."
+    },
+    {
+        "Amparo": "206 III",
+        "Código Enquadramento": "6017",
+        "Desdobramento": "5",
+        "Tipificação": "Executar operação de retorno passando por cima de faixas de pedestres ."
+    },
+    {
+        "Amparo": "206 III",
+        "Código Enquadramento": "6017",
+        "Desdobramento": "6",
+        "Tipificação": "Executar operação de retorno passando por cima de faixasde veículos não motorizados ."
+    },
+    {
+        "Amparo": "206 IV",
+        "Código Enquadramento": "6025",
+        "Desdobramento": "0",
+        "Tipificação": "Executar operação de retorno nas interseções, entrando na contramão de direção da via transversal ."
+    },
+    {
+        "Amparo": "206 V",
+        "Código Enquadramento": "6033",
+        "Desdobramento": "0",
+        "Tipificação": "Executar operação de retorno com prejuízo da livre circulação ou da segurança ainda que em locais permitidos."
+    },
+    {
+        "Amparo": "206 V",
+        "Código Enquadramento": "6033",
+        "Desdobramento": "1",
+        "Tipificação": "Executar operação de retorno com prejuízo da livre circulação, ainda que em locais permitidos ."
+    },
+    {
+        "Amparo": "220 I",
+        "Código Enquadramento": "6262",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de passeatas ."
+    },
+    {
+        "Amparo": "206 V",
+        "Código Enquadramento": "6033",
+        "Desdobramento": "2",
+        "Tipificação": "Executar operação de retorno com prejuízo da segurança, ainda que em locais permitidos."
+    },
+    {
+        "Amparo": "207",
+        "Código Enquadramento": "6041",
+        "Desdobramento": "0",
+        "Tipificação": "Executar operação de conversão a direita ou a esquerda em locais proibidos pela sinalização ."
+    },
+    {
+        "Amparo": "207",
+        "Código Enquadramento": "6041",
+        "Desdobramento": "1",
+        "Tipificação": "Executar operação de conversão a direita em locais proibidos pela sinalização."
+    },
+    {
+        "Amparo": "207",
+        "Código Enquadramento": "6041",
+        "Desdobramento": "2",
+        "Tipificação": "Executar operação de conversão a esquerda em locais proibidos pela sinalização ."
+    },
+    {
+        "Amparo": "208",
+        "Código Enquadramento": "6050",
+        "Desdobramento": "0",
+        "Tipificação": "Avançar o sinal vermelho do semáforo ou da parada obrigatória ."
+    },
+    {
+        "Amparo": "208",
+        "Código Enquadramento": "6050",
+        "Desdobramento": "1",
+        "Tipificação": "Avançar o sinal vermelho do semáforo, exc onde houver sinaliz que perm livre conv à direita."
+    },
+    {
+        "Amparo": "208",
+        "Código Enquadramento": "6050",
+        "Desdobramento": "2",
+        "Tipificação": "Avançar sinal de parada obrigatória ."
+    },
+    {
+        "Amparo": "208",
+        "Código Enquadramento": "6050",
+        "Desdobramento": "3",
+        "Tipificação": "Avançar o sinal vermelho do semáforo, exc houver sinaliz perm livre conv à direita -fisc eletrônica."
+    },
+    {
+        "Amparo": "209",
+        "Código Enquadramento": "6068",
+        "Desdobramento": "0",
+        "Tipificação": "Transpor , sem autorização bloqueio viário com ou sem sinalização ou dispositivos auxiliares, deixar de adentrar às áreas destinadas a pesagem de veículos ou evadir-se para não efetuar o pagamento do pedágio ."
+    },
+    {
+        "Amparo": "209",
+        "Código Enquadramento": "6068",
+        "Desdobramento": "1",
+        "Tipificação": "Transpor, sem autorização, bloqueio viário com ou sem sinalização ou dispositivos auxiliares."
+    },
+    {
+        "Amparo": "209",
+        "Código Enquadramento": "6068",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de adentrar às áreas destinadas à pesagem de veículos."
+    },
+    {
+        "Amparo": "220 I",
+        "Código Enquadramento": "6262",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de aglomerações."
+    },
+    {
+        "Amparo": "220 I",
+        "Código Enquadramento": "6262",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de cortejos."
+    },
+    {
+        "Amparo": "220 I",
+        "Código Enquadramento": "6262",
+        "Desdobramento": "4",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de préstitos ."
+    },
+    {
+        "Amparo": "220 I",
+        "Código Enquadramento": "6262",
+        "Desdobramento": "5",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de desfiles."
+    },
+    {
+        "Amparo": "209",
+        "Código Enquadramento": "6068",
+        "Desdobramento": "3",
+        "Tipificação": "Evadir-se para não efetuar o pagamento do pedágio ."
+    },
+    {
+        "Amparo": "210",
+        "Código Enquadramento": "6076",
+        "Desdobramento": "0",
+        "Tipificação": "Transpor sem autorização bloqueio viário policial ."
+    },
+    {
+        "Amparo": "211",
+        "Código Enquadramento": "6084",
+        "Desdobramento": "0",
+        "Tipificação": "Ultrapassar veículos em fila, parados em razão de sinal luminoso, cancela, bloqueio viário parcial ou qualquer outro obstáculo, com exceção dos veículos não motorizados."
+    },
+    {
+        "Amparo": "211",
+        "Código Enquadramento": "6084",
+        "Desdobramento": "1",
+        "Tipificação": "Ultrapassar veículos em fila, parados em razão de sinal luminoso, com exceção dos veículos não motorizados."
+    },
+    {
+        "Amparo": "211",
+        "Código Enquadramento": "6084",
+        "Desdobramento": "2",
+        "Tipificação": "Ultrapassar veículos em fila, parados em razão de cancela, com exceção dos veículos não motorizados ."
+    },
+    {
+        "Amparo": "211",
+        "Código Enquadramento": "6084",
+        "Desdobramento": "3",
+        "Tipificação": "Ultrapassar veículos em fila, parados em razão de bloqueio viário parcial, com exceção dos veículos não motorizados ."
+    },
+    {
+        "Amparo": "211",
+        "Código Enquadramento": "6084",
+        "Desdobramento": "4",
+        "Tipificação": "Ultrapassar veículos em fila, parados em razão de qualquer outro obstáculo, com exceção dos veículos não motorizados."
+    },
+    {
+        "Amparo": "212",
+        "Código Enquadramento": "6092",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de parar o veículo antes de transpor linha férrea."
+    },
+    {
+        "Amparo": "213 I",
+        "Código Enquadramento": "6106",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de pessoas, como préstitos, passeatas, desfiles e outros ."
+    },
+    {
+        "Amparo": "220 VIII",
+        "Código Enquadramento": "6335",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob chuva ."
+    },
+    {
+        "Amparo": "220 VIII",
+        "Código Enquadramento": "6335",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob neblina ."
+    },
+    {
+        "Amparo": "220 VIII",
+        "Código Enquadramento": "6335",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob cerração."
+    },
+    {
+        "Amparo": "220 VIII",
+        "Código Enquadramento": "6335",
+        "Desdobramento": "4",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob ventos fortes ."
+    },
+    {
+        "Amparo": "213 II",
+        "Código Enquadramento": "6114",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de veículos, como cortejos, formações militares e outros ."
+    },
+    {
+        "Amparo": "214 I",
+        "Código Enquadramento": "6122",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado que se encontre na faixa a ele destinada."
+    },
+    {
+        "Amparo": "214 II",
+        "Código Enquadramento": "6130",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado que não haja concluído a travessia, mesmo que ocorra sinal verde para o veículo ."
+    },
+    {
+        "Amparo": "214 III",
+        "Código Enquadramento": "6149",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado portadores de deficiência física, crianças, idosos e a gestantes."
+    },
+    {
+        "Amparo": "214 IV",
+        "Código Enquadramento": "6157",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado, quando não houver iniciado a travessia, mesmo que não sinalização a ele destinada."
+    },
+    {
+        "Amparo": "214 V",
+        "Código Enquadramento": "6165",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado que esteja atravessando a via transversal para onde se dirige o veículo ."
+    },
+    {
+        "Amparo": "215 I",
+        "Código Enquadramento": "6173",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que estiver circulando por rodovia ou rotatória ou a veículo que vier pela direita."
+    },
+    {
+        "Amparo": "215 I",
+        "Código Enquadramento": "6173",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que estiver circulando por rodovia."
+    },
+    {
+        "Amparo": "215 I",
+        "Código Enquadramento": "6173",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que estiver circulando por rotatória."
+    },
+    {
+        "Amparo": "215 I",
+        "Código Enquadramento": "6173",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que vier da direita ."
+    },
+    {
+        "Amparo": "215 II",
+        "Código Enquadramento": "6181",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de dar preferência de passagem, nas interseções com sinalização de regulamentação de Dê a Preferência."
+    },
+    {
+        "Amparo": "216",
+        "Código Enquadramento": "6190",
+        "Desdobramento": "0",
+        "Tipificação": "Entrar ou sair de áreas lindeiras sem estar adequadamente posicionado para o ingresso na via e sem as precauções com a segurança de pedestres e de outros veículos."
+    },
+    {
+        "Amparo": "221§ único",
+        "Código Enquadramento": "6416",
+        "Desdobramento": "0",
+        "Tipificação": "Confeccionar, distribuir ou colocar, em veículo próprio ou de terceiros, placas de identificação não autorizadas pela regulamentação do CONTRAN ."
+    },
+    {
+        "Amparo": "217",
+        "Código Enquadramento": "6203",
+        "Desdobramento": "0",
+        "Tipificação": "Entrar ou sair de fila de veículos estacionados sem dar preferência de passagem a pedestres e a outros veículos ."
+    },
+    {
+        "Amparo": "219",
+        "Código Enquadramento": "6254",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com veículo em velocidade inferior à metade da velocidade máxima estabelecida para via, retardando ou obstruindo o trânsito, a menos que as condições de trafego e meteorológicas não o permitam, salvo se estiver na faixa da direita."
+    },
+    {
+        "Amparo": "220 I",
+        "Código Enquadramento": "6262",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de passeatas, aglomerações, cortejos, préstitos e desfiles ."
+    },
+    {
+        "Amparo": "220 II",
+        "Código Enquadramento": "6270",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nos locais onde o trânsito esteja sendo controlado pelo Agente da Autoridade de Trânsito, mediante sinais sonoros ou gestos ."
+    },
+    {
+        "Amparo": "220 III",
+        "Código Enquadramento": "6289",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-se da guia da calçada (meio-fio) ou acostamento."
+    },
+    {
+        "Amparo": "225 I",
+        "Código Enquadramento": "6459",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas, quando tiver de permanecer no acostamento."
+    },
+    {
+        "Amparo": "225 I",
+        "Código Enquadramento": "6459",
+        "Desdobramento": "4",
+        "Tipificação": "Omitir-se a providências necessárias para tornar visível o local, quando tiver de permanecer no acostamento ."
+    },
+    {
+        "Amparo": "225 II",
+        "Código Enquadramento": "6467",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas, quando a carga for derramada sobre a via e não puder ser retirada imediatamente."
+    },
+    {
+        "Amparo": "225 II",
+        "Código Enquadramento": "6467",
+        "Desdobramento": "2",
+        "Tipificação": "Omitir-se a providências necessárias para tornar visível o local, quando a carga for derramada sobre a via e não puder ser retirada imediatamente ."
+    },
+    {
+        "Amparo": "220 III",
+        "Código Enquadramento": "6289",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-se da guia da calçada (meio-fio) ."
+    },
+    {
+        "Amparo": "220 III",
+        "Código Enquadramento": "6289",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-se do acostamento."
+    },
+    {
+        "Amparo": "227 I",
+        "Código Enquadramento": "6483",
+        "Desdobramento": "1",
+        "Tipificação": "Usar buzina em situação que não a de simples toque breve como advertência ao pedestre ."
+    },
+    {
+        "Amparo": "227 I",
+        "Código Enquadramento": "6483",
+        "Desdobramento": "2",
+        "Tipificação": "Usar buzina em situação que não a de simples toque breve como advertência a condutores de outros veículos ."
+    },
+    {
+        "Amparo": "220 IV",
+        "Código Enquadramento": "6297",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-se de ou passar por interseção não sinalizada."
+    },
+    {
+        "Amparo": "220 V",
+        "Código Enquadramento": "6300",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas vias rurais cuja faixa de domínio não esteja cercada."
+    },
+    {
+        "Amparo": "220 VI",
+        "Código Enquadramento": "6319",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nos trechos em curvas de pequeno raio ."
+    },
+    {
+        "Amparo": "220 VII",
+        "Código Enquadramento": "6327",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-sede locais sinalizados com advertência de obras ou trabalhadores na pista ."
+    },
+    {
+        "Amparo": "220 VIII",
+        "Código Enquadramento": "6335",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob chuva, neblina cerração ou ventos fortes."
+    },
+    {
+        "Amparo": "220 IX",
+        "Código Enquadramento": "6343",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito quando houver má visibilidade ."
+    },
+    {
+        "Amparo": "220 X",
+        "Código Enquadramento": "6351",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito quando o pavimento se apresentar escorregadio, defeituoso ou avariado ."
+    },
+    {
+        "Amparo": "220 X",
+        "Código Enquadramento": "6351",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito quando o pavimento se apresentar escorregadio ."
+    },
+    {
+        "Amparo": "220 X",
+        "Código Enquadramento": "6351",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito quando o pavimento se apresentar defeituoso ou avariado ."
+    },
+    {
+        "Amparo": "220 XI",
+        "Código Enquadramento": "6360",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito à aproximação de animais na pista ."
+    },
+    {
+        "Amparo": "220 XII",
+        "Código Enquadramento": "6378",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito em declive."
+    },
+    {
+        "Amparo": "220 XIII",
+        "Código Enquadramento": "6386",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir veloc de forma compatível c/ segurança ao ultrapassar ciclista."
+    },
+    {
+        "Amparo": "220 XIV",
+        "Código Enquadramento": "6394",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de escola, hospitais, estações de embarque e desembarque de passageiros ou onde haja intensa movimentação de pedestres ."
+    },
+    {
+        "Amparo": "220 XIV",
+        "Código Enquadramento": "6394",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de escola."
+    },
+    {
+        "Amparo": "220 XIV",
+        "Código Enquadramento": "6394",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de hospitais ."
+    },
+    {
+        "Amparo": "220 XIV",
+        "Código Enquadramento": "6394",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de estações de embarque e desembarque de passageiros ."
+    },
+    {
+        "Amparo": "220 XIV",
+        "Código Enquadramento": "6394",
+        "Desdobramento": "4",
+        "Tipificação": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito onde haja intensa movimentação de pedestres ."
+    },
+    {
+        "Amparo": "221",
+        "Código Enquadramento": "6408",
+        "Desdobramento": "0",
+        "Tipificação": "Portar no veículo, placas de identificação em desacordo com as especificações e modelos estabelecidos pelo CONTRAN."
+    },
+    {
+        "Amparo": "221§ único",
+        "Código Enquadramento": "6416",
+        "Desdobramento": "1",
+        "Tipificação": "Colocar, em veículo próprio, placas de identificação não autorizadas pela regulamentação do CONTRAN ."
+    },
+    {
+        "Amparo": "221§ único",
+        "Código Enquadramento": "6416",
+        "Desdobramento": "2",
+        "Tipificação": "Colocar, em veículo de terceiros, placas de identificação não autorizadas pela regulamentação do CONTRAN."
+    },
+    {
+        "Amparo": "222",
+        "Código Enquadramento": "6424",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de manter ligado, nas situações de atendimento de emergência, o sistema de iluminação vermelha intermitente dos veículos de Polícia, de socorro de incêndio e salvamento, de fiscalização de trânsito e das ambulâncias, ainda que parados ."
+    },
+    {
+        "Amparo": "223",
+        "Código Enquadramento": "6432",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com farol desregulado ou com facho de luz alta de forma a perturbara visão de outro condutor."
+    },
+    {
+        "Amparo": "223",
+        "Código Enquadramento": "6432",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com farol desregulado de forma a perturbara visão de outro condutor ."
+    },
+    {
+        "Amparo": "223",
+        "Código Enquadramento": "6432",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com facho de luz alta de forma a perturbar a visão de outro condutor."
+    },
+    {
+        "Amparo": "224",
+        "Código Enquadramento": "6440",
+        "Desdobramento": "0",
+        "Tipificação": "Fazer uso do facho de luz alta dos faróis em vias providas de iluminação pública."
+    },
+    {
+        "Amparo": "225 I",
+        "Código Enquadramento": "6459",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas ou omitir-se a providências necessárias para tornar visível o local, quando tiver de remover o veículo da pista de rolamento ou permanecer no acostamento ."
+    },
+    {
+        "Amparo": "225 I",
+        "Código Enquadramento": "6459",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas ou omitir-se a providências necessárias para tornar visível o local, quando tiver de remover o veículo da pista de rolamento."
+    },
+    {
+        "Amparo": "230 XI",
+        "Código Enquadramento": "6653",
+        "Desdobramento": "3",
+        "Tipificação": "Conduzir o veículo com o silenciador do motor de explosão, deficiente ou inoperante ."
+    },
+    {
+        "Amparo": "225 I",
+        "Código Enquadramento": "6459",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas ou omitir-se a providências necessárias para tornar visível o local, quando tiver depermanecer no acostamento ."
+    },
+    {
+        "Amparo": "230 XII",
+        "Código Enquadramento": "6661",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo com equipamento proibido ."
+    },
+    {
+        "Amparo": "230 XII",
+        "Código Enquadramento": "6661",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo com acessório proibido ."
+    },
+    {
+        "Amparo": "225 II",
+        "Código Enquadramento": "6467",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas ou omitir-se a providências necessárias para tornar visível o local, quando a carga for derramada sobre a via e não puder ser retirada imediatamente."
+    },
+    {
+        "Amparo": "226",
+        "Código Enquadramento": "6475",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de retirar todo e qualquer objeto que tenha sido utilizado para sinalização temporária da via."
+    },
+    {
+        "Amparo": "227 I",
+        "Código Enquadramento": "6483",
+        "Desdobramento": "0",
+        "Tipificação": "Usar buzina em situação que não a de simples toque breve como advertência ao pedestre ou a condutores de outros veículos."
+    },
+    {
+        "Amparo": "227 II",
+        "Código Enquadramento": "6491",
+        "Desdobramento": "0",
+        "Tipificação": "Usar buzina prolongada e sucessivamente a qualquer pretexto ."
+    },
+    {
+        "Amparo": "227 III",
+        "Código Enquadramento": "6505",
+        "Desdobramento": "0",
+        "Tipificação": "Usar buzina entre as vinte e duas e às seis horas ."
+    },
+    {
+        "Amparo": "227 IV",
+        "Código Enquadramento": "6513",
+        "Desdobramento": "0",
+        "Tipificação": "Usar buzina em locais e horários proibidos pela sinalização ."
+    },
+    {
+        "Amparo": "227 V",
+        "Código Enquadramento": "6521",
+        "Desdobramento": "0",
+        "Tipificação": "Usar buzina em desacordo com os padrões e freqüências estabelecidas pelo CONTRAN."
+    },
+    {
+        "Amparo": "228",
+        "Código Enquadramento": "6530",
+        "Desdobramento": "0",
+        "Tipificação": "Usar no veículo equipamento com som em volume ou freqüência que não sejam autorizadas pelo CONTRAN."
+    },
+    {
+        "Amparo": "230 XVII",
+        "Código Enquadramento": "6718",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo com cortinas fechadas, não autorizadas pela legislação ."
+    },
+    {
+        "Amparo": "230 XVII",
+        "Código Enquadramento": "6718",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo com persianas fechadas, não autorizadas pela legislação."
+    },
+    {
+        "Amparo": "229",
+        "Código Enquadramento": "6548",
+        "Desdobramento": "0",
+        "Tipificação": "Usar indevidamente no veículo aparelho de alarme ou que produza sons e ruído que perturbe o sossego público, em desacordo com normas fixadas pelo CONTRAN ."
+    },
+    {
+        "Amparo": "229",
+        "Código Enquadramento": "6548",
+        "Desdobramento": "1",
+        "Tipificação": "Usar indevidamente no veículo aparelho de alarme que perturbe o sossego público, em desacordo com normas fixadas pelo CONTRAN ."
+    },
+    {
+        "Amparo": "229",
+        "Código Enquadramento": "6548",
+        "Desdobramento": "2",
+        "Tipificação": "Usar indevidamente no veículo aparelho que produza sons e ruído que perturbe o sossego público, em desacordo com normas fixadas pelo CONTRAN."
+    },
+    {
+        "Amparo": "230 I",
+        "Código Enquadramento": "6556",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com o lacre, a inscrição do chassi, o selo, a placa ou qualquer outro elemento de identificação de veículo violado ou falsificado."
+    },
+    {
+        "Amparo": "230 I",
+        "Código Enquadramento": "6556",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo com o lacre de identificação violado ou falsificado."
+    },
+    {
+        "Amparo": "230 I",
+        "Código Enquadramento": "6556",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo com a inscrição do chassi violado ou falsificado ."
+    },
+    {
+        "Amparo": "230 I",
+        "Código Enquadramento": "6556",
+        "Desdobramento": "3",
+        "Tipificação": "Conduzir o veículo com o selo violado ou falsificado."
+    },
+    {
+        "Amparo": "230 I",
+        "Código Enquadramento": "6556",
+        "Desdobramento": "4",
+        "Tipificação": "Conduzir o veículo com a placa violado ou falsificado ."
+    },
+    {
+        "Amparo": "230 I",
+        "Código Enquadramento": "6556",
+        "Desdobramento": "5",
+        "Tipificação": "Conduzir o veículo com qualquer outro elemento de identificação do veículo violado ou falsificado ."
+    },
+    {
+        "Amparo": "230 II",
+        "Código Enquadramento": "6564",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo transportando passageiros em compartimento de carga, salvo por motivo de força maior com permissão da autoridade competente e na forma estabelecida pelo CONTRAN ."
+    },
+    {
+        "Amparo": "230 III",
+        "Código Enquadramento": "6572",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com dispositivo anti-radar ."
+    },
+    {
+        "Amparo": "231 II b",
+        "Código Enquadramento": "6793",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo derramando sobre a via combustível que esteja utilizando."
+    },
+    {
+        "Amparo": "231 II b",
+        "Código Enquadramento": "6793",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo lançando sobre a via combustível que esteja utilizando."
+    },
+    {
+        "Amparo": "231 II b",
+        "Código Enquadramento": "6793",
+        "Desdobramento": "3",
+        "Tipificação": "Transitar com o veículo arrastando sobre a via combustível que esteja utilizando."
+    },
+    {
+        "Amparo": "231 II b",
+        "Código Enquadramento": "6793",
+        "Desdobramento": "4",
+        "Tipificação": "Transitar com o veículo derramando sobre a via lubrificante que esteja utilizando ."
+    },
+    {
+        "Amparo": "231 II b",
+        "Código Enquadramento": "6793",
+        "Desdobramento": "5",
+        "Tipificação": "Transitar com o veículo lançando sobre a via lubrificante que esteja utilizando ."
+    },
+    {
+        "Amparo": "231 II b",
+        "Código Enquadramento": "6793",
+        "Desdobramento": "6",
+        "Tipificação": "Transitar com o veículo arrastando sobre a via lubrificante que esteja utilizando ."
+    },
+    {
+        "Amparo": "230 IV",
+        "Código Enquadramento": "6580",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo sem qualquer uma das placas de identificação ."
+    },
+    {
+        "Amparo": "231 II c",
+        "Código Enquadramento": "6807",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo derramando qualquer objeto que possa acarretar risco de acidente."
+    },
+    {
+        "Amparo": "231 II c",
+        "Código Enquadramento": "6807",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo lançando qualquer objeto que possa acarretar risco de acidente."
+    },
+    {
+        "Amparo": "231 II c",
+        "Código Enquadramento": "6807",
+        "Desdobramento": "3",
+        "Tipificação": "Transitar com o veículo arrastando qualquer objeto que possa acarretar risco de acidente."
+    },
+    {
+        "Amparo": "230 V",
+        "Código Enquadramento": "6599",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo que não esteja registrado e devidamente licenciado ."
+    },
+    {
+        "Amparo": "231 III",
+        "Código Enquadramento": "6815",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo produzindo fumaça em níveis superiores aos fixados pelo CONTRAN ."
+    },
+    {
+        "Amparo": "231 III",
+        "Código Enquadramento": "6815",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo produzindo gases em níveis superiores aos fixados pelo CONTRAN."
+    },
+    {
+        "Amparo": "231 III",
+        "Código Enquadramento": "6815",
+        "Desdobramento": "3",
+        "Tipificação": "Transitar com o veículo produzindo partículas em níveis superiores aos fixados pelo CONTRAN ."
+    },
+    {
+        "Amparo": "231 IV",
+        "Código Enquadramento": "6823",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo com suas dimensões ou de sua carga superiores aos limites estabelecidos legalmente ou pela sinalização, sem autorização ."
+    },
+    {
+        "Amparo": "230 VI",
+        "Código Enquadramento": "6602",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com qualquer uma das placas de identificação, sem condições de legibilidade e visibilidade ."
+    },
+    {
+        "Amparo": "230 VII",
+        "Código Enquadramento": "6610",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com cor ou característica alterada ."
+    },
+    {
+        "Amparo": "230 VII",
+        "Código Enquadramento": "6610",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo com a cor alterada ."
+    },
+    {
+        "Amparo": "230 VII",
+        "Código Enquadramento": "6610",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo com a característica alterada."
+    },
+    {
+        "Amparo": "230 VIII",
+        "Código Enquadramento": "6629",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo, sem ter sido submetido a inspeção de segurança veicular, quando obrigatória ."
+    },
+    {
+        "Amparo": "230 IX",
+        "Código Enquadramento": "6637",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo sem equipamento obrigatório ou estando este ineficiente ou inoperante."
+    },
+    {
+        "Amparo": "230 IX",
+        "Código Enquadramento": "6637",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo sem equipamento obrigatório."
+    },
+    {
+        "Amparo": "230 IX",
+        "Código Enquadramento": "6637",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo com equipamento obrigatório ineficiente ou inoperante."
+    },
+    {
+        "Amparo": "230 X",
+        "Código Enquadramento": "6645",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com o equipamento obrigatório em desacordo com o estabelecido pelo CONTRAN ."
+    },
+    {
+        "Amparo": "230 XI",
+        "Código Enquadramento": "6653",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com descarga livre ou silenciador de motor de explosão defeituoso, deficiente ou inoperante."
+    },
+    {
+        "Amparo": "230 XI",
+        "Código Enquadramento": "6653",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo com descarga livre ."
+    },
+    {
+        "Amparo": "230 XI",
+        "Código Enquadramento": "6653",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo com o silenciador do motor de explosão defeituoso, deficiente ou inoperante."
+    },
+    {
+        "Amparo": "230 XII",
+        "Código Enquadramento": "6661",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com equipamento ou acessório proibido."
+    },
+    {
+        "Amparo": "230 XIII",
+        "Código Enquadramento": "6670",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com o equipamento do sistema de iluminação e de sinalização alterados."
+    },
+    {
+        "Amparo": "230 XIV",
+        "Código Enquadramento": "6688",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com registrador instantâneo de velocidadee tempo viciado ou defeituoso, quando houver exigência desse aparelho ."
+    },
+    {
+        "Amparo": "230 XV",
+        "Código Enquadramento": "6696",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com inscrições, adesivos, legendas e símbolos de caráter publicitário afixados ou pintados no pára-brisa e em toda a extensão da parte traseira do veículo, excetuadas as hipóteses previstas no CTB ."
+    },
+    {
+        "Amparo": "230 XV",
+        "Código Enquadramento": "6696",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo com inscrições, adesivos, legendas e símbolos de caráter publicitário afixados no pára-brisa e em toda a extensão da parte traseira do veículo, excetuadas as hipóteses previstas no CTB ."
+    },
+    {
+        "Amparo": "230 XV",
+        "Código Enquadramento": "6696",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo com inscrições, adesivos, legendas e símbolos de caráter publicitário pintados no pára-brisa e em toda a extensão da parte traseira do veículo, excetuadas as hipóteses previstas no CTB ."
+    },
+    {
+        "Amparo": "234",
+        "Código Enquadramento": "6939",
+        "Desdobramento": "0",
+        "Tipificação": "Falsificar ou adulterar documento de habilitação e de identificação do veículo."
+    },
+    {
+        "Amparo": "230 XVI",
+        "Código Enquadramento": "6700",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veiculo com vidros total ou parcialmente cobertos por películas refletivas ou não, painéis decorativos ou pinturas ."
+    },
+    {
+        "Amparo": "230 XVI",
+        "Código Enquadramento": "6700",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veiculo com vidros total ou parcialmentecobertos por películas refletivas ou não ."
+    },
+    {
+        "Amparo": "230 XVI",
+        "Código Enquadramento": "6700",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veiculo com vidrostotalouparcialmente cobertos porpainéis decorativos ou pinturas."
+    },
+    {
+        "Amparo": "230 XVII",
+        "Código Enquadramento": "6718",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com cortinas ou persianas fechadas, não autorizadas pela legislação."
+    },
+    {
+        "Amparo": "230 XVIII",
+        "Código Enquadramento": "6726",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo em mau estado de conservação, comprometendo a segurança ou reprovado na avaliação de segurança e de emissão de poluentes e ruído ."
+    },
+    {
+        "Amparo": "230 XVIII",
+        "Código Enquadramento": "6726",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo em mau estado de conservação, comprometendo a segurança."
+    },
+    {
+        "Amparo": "230 XVIII",
+        "Código Enquadramento": "6726",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo reprovado na avaliação de inspeção de segurança."
+    },
+    {
+        "Amparo": "230 XVIII",
+        "Código Enquadramento": "6726",
+        "Desdobramento": "3",
+        "Tipificação": "Conduzir o veículo reprovado na avaliação deemissão de poluentes e ruídos ."
+    },
+    {
+        "Amparo": "230 XIX",
+        "Código Enquadramento": "6734",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo sem acionar o limpador de pára-brisa sob chuva ."
+    },
+    {
+        "Amparo": "230 XX",
+        "Código Enquadramento": "6742",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo sem portar a autorização para condução de escolares."
+    },
+    {
+        "Amparo": "230 XXI",
+        "Código Enquadramento": "6750",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo de carga com falta de inscrição da tara e demais inscrições previstas no CTB ."
+    },
+    {
+        "Amparo": "230 XXII",
+        "Código Enquadramento": "6769",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo com defeito no sistema de iluminação de sinalização ou com lâmpadas queimadas."
+    },
+    {
+        "Amparo": "230 XXII",
+        "Código Enquadramento": "6769",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo com defeito no sistema de iluminação ."
+    },
+    {
+        "Amparo": "230 XXII",
+        "Código Enquadramento": "6769",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo com defeito no sistema de sinalização."
+    },
+    {
+        "Amparo": "240",
+        "Código Enquadramento": "6998",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar o responsável de promover a baixa de veículo irrecuperável ."
+    },
+    {
+        "Amparo": "240",
+        "Código Enquadramento": "6998",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar o responsável de promover a baixa de veículo definitivamente desmontado."
+    },
+    {
+        "Amparo": "241",
+        "Código Enquadramento": "7005",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de atualizar o cadastro de registro do veículo ou de habilitação do Condutor ."
+    },
+    {
+        "Amparo": "230 XXII",
+        "Código Enquadramento": "6769",
+        "Desdobramento": "3",
+        "Tipificação": "Conduzir o veículo comlâmpadas queimadas."
+    },
+    {
+        "Amparo": "231 I",
+        "Código Enquadramento": "6777",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo danificando a via, suas instalações e equipamentos."
+    },
+    {
+        "Amparo": "242",
+        "Código Enquadramento": "7013",
+        "Desdobramento": "0",
+        "Tipificação": "Fazer falsa declaração de domicilio para fins de registro, licenciamento ou habilitação ."
+    },
+    {
+        "Amparo": "231 II a",
+        "Código Enquadramento": "6785",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo derramando, lançando ou arrastando sobre a via, carga que esteja transportando."
+    },
+    {
+        "Amparo": "231 II a",
+        "Código Enquadramento": "6785",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo derramando sobre a via, carga que esteja transportando."
+    },
+    {
+        "Amparo": "231 II a",
+        "Código Enquadramento": "6785",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo lançando sobre a via, carga que esteja transportando."
+    },
+    {
+        "Amparo": "231 II a",
+        "Código Enquadramento": "6785",
+        "Desdobramento": "3",
+        "Tipificação": "Transitar com o veículo arrastando sobre a via, carga que esteja transportando."
+    },
+    {
+        "Amparo": "231 II b",
+        "Código Enquadramento": "6793",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo derramando, lançando ou arrastando sobre a via combustível ou lubrificante que esteja utilizando."
+    },
+    {
+        "Amparo": "231 II c",
+        "Código Enquadramento": "6807",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo derramando, lançando ou arrastando qualquer objeto que possa acarretar risco de acidente."
+    },
+    {
+        "Amparo": "231 III",
+        "Código Enquadramento": "6815",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo produzindo fumaça, gases ou partículas em níveis superiores aos fixados pelo CONTRAN."
+    },
+    {
+        "Amparo": "231 IV",
+        "Código Enquadramento": "6823",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com veículo e/ou carga com dimensões superiores ao limite legal sem autorização ."
+    },
+    {
+        "Amparo": "231 IV",
+        "Código Enquadramento": "6823",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com veículo e/ou carga com dimensões superiores estabelecido pela sinalização sem autorização ."
+    },
+    {
+        "Amparo": "231 IV",
+        "Código Enquadramento": "6823",
+        "Desdobramento": "3",
+        "Tipificação": "Transitar com o veículo com as dimensões de sua carga superioresaos limites estabelecidos legalmentesem autorização ."
+    },
+    {
+        "Amparo": "231 IV",
+        "Código Enquadramento": "6823",
+        "Desdobramento": "4",
+        "Tipificação": "Transitar com o veículo com as dimensões de sua carga superiores à sinalização, sem autorização ."
+    },
+    {
+        "Amparo": "231 V",
+        "Código Enquadramento": "6831",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo com excesso de peso, admitido percentual de tolerância quando aferido por equipamento ."
+    },
+    {
+        "Amparo": "231 VI",
+        "Código Enquadramento": "6840",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo em desacordo com a autorização especial, expedida pela Autoridade competente, para transitar com dimensões excedentes ou quando a mesma estiver vencida ."
+    },
+    {
+        "Amparo": "231 VI",
+        "Código Enquadramento": "6840",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo em desacordo com a autorização especial, expedida pela Autoridade competente, para transitar com dimensões excedentes ."
+    },
+    {
+        "Amparo": "231 VI",
+        "Código Enquadramento": "6840",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com autorização vencida, expedida p/ veículo c/ dimensões excedentes."
+    },
+    {
+        "Amparo": "231 VII",
+        "Código Enquadramento": "6858",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo com lotação excedente ."
+    },
+    {
+        "Amparo": "231 VIII",
+        "Código Enquadramento": "6866",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo efetuando transporte remunerado de pessoas de pessoas ou bens, quando não for licenciado para esse fim, salvo casos de força maior ou com permissão da Autoridade competente."
+    },
+    {
+        "Amparo": "231 VIII",
+        "Código Enquadramento": "6866",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo efetuando transporte remunerado de pessoas, quando não for licenciado para esse fim, salvo casos de força maior ou com permissão da Autoridade competente."
+    },
+    {
+        "Amparo": "231 VIII",
+        "Código Enquadramento": "6866",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo efetuando transporte remunerado de bens, quando não for licenciado para esse fim, salvo casos de forca maior ou com permissão da Autoridade competente."
+    },
+    {
+        "Amparo": "231 IX",
+        "Código Enquadramento": "6874",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo desligado ou desengrenado, em declive ."
+    },
+    {
+        "Amparo": "231 IX",
+        "Código Enquadramento": "6874",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo desligado, em declive ."
+    },
+    {
+        "Amparo": "231 IX",
+        "Código Enquadramento": "6874",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo desengrenado, em declive."
+    },
+    {
+        "Amparo": "231 X",
+        "Código Enquadramento": "6882",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo excedendo a capacidade máxima de tração, em infração considerada média pelo CONTRAN ."
+    },
+    {
+        "Amparo": "231 X",
+        "Código Enquadramento": "6890",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo excedendo a capacidade máxima de tração, em infração considerada grave pelo CONTRAN ."
+    },
+    {
+        "Amparo": "231 X",
+        "Código Enquadramento": "6904",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo excedendo a capacidade máxima de tração, em infração considerada gravíssima pelo CONTRAN."
+    },
+    {
+        "Amparo": "232",
+        "Código Enquadramento": "6912",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir o veículo sem os documentos de porte obrigatório ."
+    },
+    {
+        "Amparo": "233",
+        "Código Enquadramento": "6920",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de efetuar o registro de veículo no prazo de trinta dias, junto ao Órgão Executivo de Trânsito ."
+    },
+    {
+        "Amparo": "234",
+        "Código Enquadramento": "6939",
+        "Desdobramento": "1",
+        "Tipificação": "Falsificarou adulterar documento de habilitação ."
+    },
+    {
+        "Amparo": "234",
+        "Código Enquadramento": "6939",
+        "Desdobramento": "2",
+        "Tipificação": "Adulterar documento de habilitação."
+    },
+    {
+        "Amparo": "235",
+        "Código Enquadramento": "6947",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir pessoas, animais ou cargas nas partes externas do veículo salvo nos casos devidamente autorizados."
+    },
+    {
+        "Amparo": "235",
+        "Código Enquadramento": "6947",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir pessoas nas partes externas do veículo salvo nos casos devidamente autorizados ."
+    },
+    {
+        "Amparo": "235",
+        "Código Enquadramento": "6947",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir animais nas partes externas do veículo salvo nos casos devidamente autorizados ."
+    },
+    {
+        "Amparo": "235",
+        "Código Enquadramento": "6947",
+        "Desdobramento": "3",
+        "Tipificação": "Conduzir carga nas partes externas do veículo salvo nos casos devidamente autorizados ."
+    },
+    {
+        "Amparo": "236",
+        "Código Enquadramento": "6955",
+        "Desdobramento": "0",
+        "Tipificação": "Rebocar outro veículo com cabo flexível ou corda salvo em casos de emergência ."
+    },
+    {
+        "Amparo": "236",
+        "Código Enquadramento": "6955",
+        "Desdobramento": "1",
+        "Tipificação": "Rebocar outro veículo com cabo flexível salvo em casos de emergência."
+    },
+    {
+        "Amparo": "236",
+        "Código Enquadramento": "6955",
+        "Desdobramento": "2",
+        "Tipificação": "Rebocar outro veículo com corda salvo em casos de emergência."
+    },
+    {
+        "Amparo": "237",
+        "Código Enquadramento": "6963",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo em desacordo com as especificações e com falta de inscrição e simbologia, necessárias a sua identificação quando exigidas pela legislação ."
+    },
+    {
+        "Amparo": "237",
+        "Código Enquadramento": "6963",
+        "Desdobramento": "1",
+        "Tipificação": "Transitar com o veículo em desacordo com as especificações, necessárias a sua identificação quando exigidas pela legislação ."
+    },
+    {
+        "Amparo": "237",
+        "Código Enquadramento": "6963",
+        "Desdobramento": "2",
+        "Tipificação": "Transitar com o veículo, com falta de inscrição necessária a sua identificação, quando exigida pela legislação."
+    },
+    {
+        "Amparo": "237",
+        "Código Enquadramento": "6963",
+        "Desdobramento": "3",
+        "Tipificação": "Transitar com o veículo, com falta de simbologia necessária a sua identificação, quando exigida pela legislação ."
+    },
+    {
+        "Amparo": "238",
+        "Código Enquadramento": "6971",
+        "Desdobramento": "0",
+        "Tipificação": "Recusar-se a entregar à Autoridade de Trânsito ou seus Agentes, mediante recibo, os documentos de habilitação, de registro, de licenciamento de veículo e outros exigidos por lei, para averiguação de sua autenticidade."
+    },
+    {
+        "Amparo": "239",
+        "Código Enquadramento": "6980",
+        "Desdobramento": "0",
+        "Tipificação": "Retirar do local veículo legalmente retido para regularização, sem permissão da Autoridade competente ou seus Agentes ."
+    },
+    {
+        "Amparo": "240",
+        "Código Enquadramento": "6998",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar o responsável de promover a baixa de veículo irrecuperável ou definitivamente desmontado ."
+    },
+    {
+        "Amparo": "241",
+        "Código Enquadramento": "7005",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de atualizar o cadastro de registro do veículo ."
+    },
+    {
+        "Amparo": "241",
+        "Código Enquadramento": "7005",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de atualizar o cadastro de habilitação do condutor ."
+    },
+    {
+        "Amparo": "250 II",
+        "Código Enquadramento": "7277",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de manter acesa pelo menos as luzes de posição sob chuva forte, quando o veículo estiver em movimento."
+    },
+    {
+        "Amparo": "250 II",
+        "Código Enquadramento": "7277",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de manter acesa pelo menos as luzes de posição sob neblina, quando o veículo estiver em movimento."
+    },
+    {
+        "Amparo": "250 II",
+        "Código Enquadramento": "7277",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de manter acesa pelo menos as luzes de posição sob cerração, quando o veículo estiver em movimento ."
+    },
+    {
+        "Amparo": "242",
+        "Código Enquadramento": "7013",
+        "Desdobramento": "1",
+        "Tipificação": "Fazer falsa declaração de domicilio para fins de registro e licenciamento ."
+    },
+    {
+        "Amparo": "242",
+        "Código Enquadramento": "7013",
+        "Desdobramento": "2",
+        "Tipificação": "Fazer falsa declaração de domicilio para fins de habilitação."
+    },
+    {
+        "Amparo": "243",
+        "Código Enquadramento": "7021",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar a empresa seguradora de comunicar ao Órgão Executivo de Trânsito competente a ocorrência de perda total do veículo e de lhe devolver as respectivas placas e documentos."
+    },
+    {
+        "Amparo": "244 I",
+        "Código Enquadramento": "7030",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor sem usar capacete de segurança com viseira ou óculos de proteção e vestuário de acordo com as normas e especificações aprovadas pelo CONTRAN ."
+    },
+    {
+        "Amparo": "244 I",
+        "Código Enquadramento": "7030",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor sem capacete de segurança."
+    },
+    {
+        "Amparo": "244 I",
+        "Código Enquadramento": "7030",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor comcapacete de segurança sem viseira ou óculos de proteção ."
+    },
+    {
+        "Amparo": "244 I",
+        "Código Enquadramento": "7030",
+        "Desdobramento": "3",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor sem vestuário de acordo com normas apr pelo Contran."
+    },
+    {
+        "Amparo": "244 II",
+        "Código Enquadramento": "7048",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro, sem usar capacete de segurança com viseira ou óculos de proteção ou fora do assento suplementar colocado atrás do condutor ou com carro lateral."
+    },
+    {
+        "Amparo": "244 II",
+        "Código Enquadramento": "7048",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro sem o capacete de segurança ."
+    },
+    {
+        "Amparo": "244 II",
+        "Código Enquadramento": "7048",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro comcapacete de segurança sem viseira ou óculos de proteção."
+    },
+    {
+        "Amparo": "244 II",
+        "Código Enquadramento": "7048",
+        "Desdobramento": "3",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro fora do assento suplementar colocado atrás do condutor ou em carro lateral."
+    },
+    {
+        "Amparo": "244 III",
+        "Código Enquadramento": "7056",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir motocicleta, motoneta ciclomotor e ciclo fazendo malabarismo ou equilibrando-se apenas em apenas uma das rodas ."
+    },
+    {
+        "Amparo": "244 III",
+        "Código Enquadramento": "7056",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir motocicleta, motoneta, ciclomotorfazendo malabarismo ou equilibrando-se apenas em uma roda ."
+    },
+    {
+        "Amparo": "244 III",
+        "Código Enquadramento": "7056",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir ciclo fazendo malabarismo ou equilibrando-se apenas em uma roda."
+    },
+    {
+        "Amparo": "244 IV",
+        "Código Enquadramento": "7064",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir motocicleta, motoneta e ciclomotor com os faróis apagados."
+    },
+    {
+        "Amparo": "244 V",
+        "Código Enquadramento": "7072",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir motocicleta, motoneta e ciclomotor transportando criança menor de sete anos ou que não tenha, nas circunstâncias, condição de cuidar de sua própria segurança."
+    },
+    {
+        "Amparo": "244 VI",
+        "Código Enquadramento": "7080",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor rebocando outro veículo."
+    },
+    {
+        "Amparo": "244 VII",
+        "Código Enquadramento": "7099",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir motocicleta, motoneta, ciclomotor ou ciclo sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras."
+    },
+    {
+        "Amparo": "244 VII",
+        "Código Enquadramento": "7099",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir motocicleta, motoneta, ciclomotorsem segurar o guidom comambas as mãos, salvo eventualmente para indicação de manobras ."
+    },
+    {
+        "Amparo": "244 § 1º",
+        "Código Enquadramento": "7099",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir ciclo sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras ."
+    },
+    {
+        "Amparo": "244 VIII",
+        "Código Enquadramento": "7102",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir motocicleta, motoneta, ciclomotor ou ciclo transportando carga incompatível com suas especificações."
+    },
+    {
+        "Amparo": "244 VIII",
+        "Código Enquadramento": "7102",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor transportando carga incompatível com suas especificações."
+    },
+    {
+        "Amparo": "244 § 1º",
+        "Código Enquadramento": "7102",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzirciclo transportando carga incompatível com suas especificações."
+    },
+    {
+        "Amparo": "244 § 1 a",
+        "Código Enquadramento": "7110",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir ciclo transportando passageiro fora da garupa ou do assento especial a ele destinado ."
+    },
+    {
+        "Amparo": "244 § 1 b",
+        "Código Enquadramento": "7129",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir ciclo e ciclomotor em vias de trânsito rápido ou rodovias salvo, onde houver acostamento ou faixa de rolamento própria ."
+    },
+    {
+        "Amparo": "244 § 1 b",
+        "Código Enquadramento": "7129",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir cicloem vias de trânsito rápido salvo onde houver acostamento ou faixa de rolamento própria."
+    },
+    {
+        "Amparo": "244 § 1 b",
+        "Código Enquadramento": "7129",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir ciclo em rodovias salvo onde houver acostamento ou faixa de rolamento própria."
+    },
+    {
+        "Amparo": "244 § 2º",
+        "Código Enquadramento": "7129",
+        "Desdobramento": "3",
+        "Tipificação": "Conduzir ciclomotorem vias de trânsito rápido salvo onde houver acostamento ou faixa de rolamento própria ."
+    },
+    {
+        "Amparo": "244 § 2º",
+        "Código Enquadramento": "7129",
+        "Desdobramento": "4",
+        "Tipificação": "Conduzirciclomotor em rodovias salvo onde houver acostamento ou faixa de rolamento própria."
+    },
+    {
+        "Amparo": "244 § 1 c",
+        "Código Enquadramento": "7137",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir ciclo transportando crianças que não tenham, nas circunstâncias, condições de cuidar de sua própria segurança."
+    },
+    {
+        "Amparo": "245",
+        "Código Enquadramento": "7145",
+        "Desdobramento": "0",
+        "Tipificação": "Utilizar a via para depósito de mercadorias, materiais e equipamentos sem autorização do Órgão ou entidade de trânsito com circunscrição sobre a via."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7153",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, sem agravamento da penalidade pela Autoridade de Trânsito ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7161",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, com agravamento da penalidade de duas vezes pela Autoridade de Trânsito ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7170",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, com agravamento da penalidade de três vezes pela Autoridade de Trânsito ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7188",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, com agravamento da penalidade de quatro vezes pela Autoridade de Trânsito ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7196",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, com agravamento da penalidade de quatro vezes pela Autoridade de Trânsito ."
+    },
+    {
+        "Amparo": "247",
+        "Código Enquadramento": "7200",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de conduzir pelo bordo da pista de rolamento, em fila única, os veículos de tração ou propulsão humana e os de tração animal, sempre que não houver acostamento ou faixa a eles destinadas ."
+    },
+    {
+        "Amparo": "248",
+        "Código Enquadramento": "7218",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar em veículo destinados ao transporte de passageiros, carga excedente em desacordo com as normas estabelecidas pelo CONTRAN ."
+    },
+    {
+        "Amparo": "249",
+        "Código Enquadramento": "7226",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de manter acesas a noite, as luzes de posição quando o veículo estiver parado para fins de embarque ou desembarque de passageiros e de carga ou descarga de mercadorias."
+    },
+    {
+        "Amparo": "249",
+        "Código Enquadramento": "7226",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de manter acesas a noite, as luzes de posição quando o veículo estiver parado para fins de embarque ou desembarque de passageiros."
+    },
+    {
+        "Amparo": "249",
+        "Código Enquadramento": "7226",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de manter acesas a noite, as luzes de posição quando o veículo estiver parado para fins de carga e descarga de mercadorias ."
+    },
+    {
+        "Amparo": "250 I a",
+        "Código Enquadramento": "7234",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de manter acesa a luz baixa, quando o veículo estiver em movimento, durante a noite."
+    },
+    {
+        "Amparo": "250 I b",
+        "Código Enquadramento": "7242",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de manter acesa a luz baixa, quando o veículo estiver em movimento, de dia, nos túneis providos de iluminação pública e nas rodovias."
+    },
+    {
+        "Amparo": "250, I, c",
+        "Código Enquadramento": "7250",
+        "Desdobramento": "0",
+        "Tipificação": "Em mov de dia, deixar de manter acesa luz baixa veíc transp coletivo faixas/pistas destinadas."
+    },
+    {
+        "Amparo": "250, I, d",
+        "Código Enquadramento": "7269",
+        "Desdobramento": "0",
+        "Tipificação": "Em movimento de dia, deixar de manter acesa luz baixa de motocicletas/motonetas/ciclomotores."
+    },
+    {
+        "Amparo": "250 II",
+        "Código Enquadramento": "7277",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de manter acesas pelo menos as luzes de posição sob chuva forte, neblina ou cerração, quando o veículo estiver em movimento."
+    },
+    {
+        "Amparo": "250 III",
+        "Código Enquadramento": "7285",
+        "Desdobramento": "0",
+        "Tipificação": "Deixar de manter a placa traseira iluminada à noite, quando o veículo estiver em movimento."
+    },
+    {
+        "Amparo": "251 I",
+        "Código Enquadramento": "7293",
+        "Desdobramento": "0",
+        "Tipificação": "Utilizar as luzes do veículo, pisca alerta, exceto em imobilizações ou situações de emergência."
+    },
+    {
+        "Amparo": "251 II",
+        "Código Enquadramento": "7307",
+        "Desdobramento": "0",
+        "Tipificação": "Utilizar luz alta e baixa intermitente, exceto quando permitido pelo CTB."
+    },
+    {
+        "Amparo": "252 I",
+        "Código Enquadramento": "7315",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir o veículo com o braço do lado de fora ."
+    },
+    {
+        "Amparo": "252 II",
+        "Código Enquadramento": "7323",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir o veículo transportando pessoas, animais ou volume à sua esquerda ou entre os braços e pernas ."
+    },
+    {
+        "Amparo": "252 II",
+        "Código Enquadramento": "7323",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir o veículo transportando pessoas à sua esquerda ou entre os braços e pernas."
+    },
+    {
+        "Amparo": "252 II",
+        "Código Enquadramento": "7323",
+        "Desdobramento": "2",
+        "Tipificação": "Dirigir o veículo transportando animais à sua esquerda ou entre os braços e pernas."
+    },
+    {
+        "Amparo": "252 II",
+        "Código Enquadramento": "7323",
+        "Desdobramento": "3",
+        "Tipificação": "Dirigir o veículo transportando volume à sua esquerda ou entre os braços e pernas ."
+    },
+    {
+        "Amparo": "252 III",
+        "Código Enquadramento": "7331",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir o veículo com incapacidade física ou mental temporária que comprometa a segurança do trânsito ."
+    },
+    {
+        "Amparo": "252 IV",
+        "Código Enquadramento": "7340",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir o veículo usando calçado que não se firme aos pés ou que comprometa a utilização dos pedais ."
+    },
+    {
+        "Amparo": "252 V",
+        "Código Enquadramento": "7358",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigiro veículo com apenas uma das mãos, exceto quando deva fazer sinais regulamentares de braço, mudar a marcha do veículo ou acionar equipamentos e acessórios do veículo."
+    },
+    {
+        "Amparo": "252 VI",
+        "Código Enquadramento": "7366",
+        "Desdobramento": "0",
+        "Tipificação": "Dirigir o veículo utilizando-se de fones nos ouvidos conectados a aparelhagem sonora ou de telefone celular ."
+    },
+    {
+        "Amparo": "252 VI",
+        "Código Enquadramento": "7366",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir o veículo utilizando-se de fones nos ouvidos conectados a aparelhagem sonora."
+    },
+    {
+        "Amparo": "252 VI",
+        "Código Enquadramento": "7366",
+        "Desdobramento": "2",
+        "Tipificação": "Dirigir o veículo utilizando-se de telefone celular ."
+    },
+    {
+        "Amparo": "253",
+        "Código Enquadramento": "7374",
+        "Desdobramento": "0",
+        "Tipificação": "Bloquear a via com o veículo."
+    },
+    {
+        "Amparo": "254 I",
+        "Código Enquadramento": "7382",
+        "Desdobramento": "0",
+        "Tipificação": "É proibido ao pedestre permanecer ou andar nas pistas de rolamento, exceto para cruza-las onde for permitido."
+    },
+    {
+        "Amparo": "254 I",
+        "Código Enquadramento": "7382",
+        "Desdobramento": "1",
+        "Tipificação": "É proibido ao pedestre permanecer nas pistas de rolamento, exceto para cruza-las onde for permitido ."
+    },
+    {
+        "Amparo": "254 I",
+        "Código Enquadramento": "7382",
+        "Desdobramento": "2",
+        "Tipificação": "É proibido ao pedestre andar nas pistas de rolamento, exceto para cruza-las onde for permitido."
+    },
+    {
+        "Amparo": "254 II",
+        "Código Enquadramento": "7390",
+        "Desdobramento": "0",
+        "Tipificação": "É proibido ao pedestre cruzar pistas de rolamento nos viadutos, pontes ou túneis salvo onde exista permissão."
+    },
+    {
+        "Amparo": "254 II",
+        "Código Enquadramento": "7390",
+        "Desdobramento": "1",
+        "Tipificação": "É proibido ao pedestre cruzar pistas de rolamento nos viadutos, salvo onde exista permissão ."
+    },
+    {
+        "Amparo": "254 II",
+        "Código Enquadramento": "7390",
+        "Desdobramento": "2",
+        "Tipificação": "É proibido ao pedestre cruzar pistas de rolamento nas pontes salvo onde exista permissão."
+    },
+    {
+        "Amparo": "254 II",
+        "Código Enquadramento": "7390",
+        "Desdobramento": "3",
+        "Tipificação": "É proibido ao pedestre cruzar pistas de rolamento nos túneis, salvo onde exista permissão ."
+    },
+    {
+        "Amparo": "254 III",
+        "Código Enquadramento": "7404",
+        "Desdobramento": "0",
+        "Tipificação": "É proibido ao pedestre atravessar a via dentro de áreas de cruzamento, salvo quando houver sinalização para esse fim."
+    },
+    {
+        "Amparo": "254 IV",
+        "Código Enquadramento": "7412",
+        "Desdobramento": "0",
+        "Tipificação": "É proibido ao pedestre utilizar-se da via em agrupamentos capazes de perturbar o trânsito ou para a pratica de qualquer folguedo, esportes, desfiles e similares, salvo em casos especiais e com a devida licença de Autoridade competente."
+    },
+    {
+        "Amparo": "254 V",
+        "Código Enquadramento": "7420",
+        "Desdobramento": "0",
+        "Tipificação": "É proibido ao pedestre andar fora da faixa própria, passarela, passagem aérea ou subterrânea."
+    },
+    {
+        "Amparo": "254 V",
+        "Código Enquadramento": "7420",
+        "Desdobramento": "1",
+        "Tipificação": "É proibido ao pedestre andar fora da faixa própria."
+    },
+    {
+        "Amparo": "254 V",
+        "Código Enquadramento": "7420",
+        "Desdobramento": "2",
+        "Tipificação": "É proibido ao pedestre andar fora da passarela."
+    },
+    {
+        "Amparo": "254 V",
+        "Código Enquadramento": "7420",
+        "Desdobramento": "3",
+        "Tipificação": "É proibido ao pedestre andar fora da passagem aérea ."
+    },
+    {
+        "Amparo": "254 V",
+        "Código Enquadramento": "7420",
+        "Desdobramento": "4",
+        "Tipificação": "É proibido ao pedestre andar fora da passagem subterrânea ."
+    },
+    {
+        "Amparo": "254 VI",
+        "Código Enquadramento": "7439",
+        "Desdobramento": "0",
+        "Tipificação": "É proibido ao pedestre desobedecer a sinalização de trânsito específica ."
+    },
+    {
+        "Amparo": "255",
+        "Código Enquadramento": "7447",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta ou de forma agressiva ."
+    },
+    {
+        "Amparo": "255",
+        "Código Enquadramento": "7447",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta ."
+    },
+    {
+        "Amparo": "255",
+        "Código Enquadramento": "7447",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir bicicleta de forma agressiva ."
+    },
+    {
+        "Amparo": "45 I a",
+        "Código Enquadramento": "9016",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produto cujo o deslocamento rodoviário seja proibido pelo Ministério dos Transportes."
+    },
+    {
+        "Amparo": "45 I b",
+        "Código Enquadramento": "9024",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produto perigoso a granel que não conste do certificado de capacitação."
+    },
+    {
+        "Amparo": "45 I c",
+        "Código Enquadramento": "9032",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produto perigoso a granel em veículo desprovido de certificado de capacitação válido."
+    },
+    {
+        "Amparo": "45 I d",
+        "Código Enquadramento": "9040",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar juntamente com produto perigoso, pessoas, animais, alimentos ou medicamentos destinados ao consumo humano ou animal ou ainda embalagens destinadas a estes bens ."
+    },
+    {
+        "Amparo": "45 I d",
+        "Código Enquadramento": "9040",
+        "Desdobramento": "1",
+        "Tipificação": "Transportar juntamente com produto perigoso, pessoas ou ainda embalagens destinadas a estes bens."
+    },
+    {
+        "Amparo": "45 I d",
+        "Código Enquadramento": "9040",
+        "Desdobramento": "2",
+        "Tipificação": "Transportar juntamente com produto perigoso, animais ou ainda embalagens destinadas a estes bens."
+    },
+    {
+        "Amparo": "45 I d",
+        "Código Enquadramento": "9040",
+        "Desdobramento": "3",
+        "Tipificação": "Transportar juntamente com produto perigoso, alimentos destinados ao consumo humano ou animal ou ainda embalagens destinadas a estes bens ."
+    },
+    {
+        "Amparo": "45 I d",
+        "Código Enquadramento": "9040",
+        "Desdobramento": "4",
+        "Tipificação": "Transportar juntamente com produto perigoso, medicamentos destinados ao consumo humano ou animal ou ainda embalagens destinadas a estes bens."
+    },
+    {
+        "Amparo": "45 I e",
+        "Código Enquadramento": "9059",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produtos incompatíveis entre si, apesar de advertido pelo expedidor ."
+    },
+    {
+        "Amparo": "45 II a",
+        "Código Enquadramento": "9067",
+        "Desdobramento": "0",
+        "Tipificação": "Não dar manutenção ao veículo ou ao seu equipamento ."
+    },
+    {
+        "Amparo": "45 II a",
+        "Código Enquadramento": "9067",
+        "Desdobramento": "1",
+        "Tipificação": "Não dar manutenção ao veículo ."
+    },
+    {
+        "Amparo": "45 II a",
+        "Código Enquadramento": "9067",
+        "Desdobramento": "2",
+        "Tipificação": "Não dar manutenção ao equipamento ."
+    },
+    {
+        "Amparo": "45 II b",
+        "Código Enquadramento": "9075",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar ou parar com inobservância ao preceituado no Amparo 14 ."
+    },
+    {
+        "Amparo": "45 II b",
+        "Código Enquadramento": "9075",
+        "Desdobramento": "1",
+        "Tipificação": "Estacionar com inobservância ao Amparo 14 ."
+    },
+    {
+        "Amparo": "45 II b",
+        "Código Enquadramento": "9075",
+        "Desdobramento": "2",
+        "Tipificação": "Parar com inobservância ao Amparo 14."
+    },
+    {
+        "Amparo": "45 II c",
+        "Código Enquadramento": "9083",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produtos cujas as embalagens se encontrem em más condições."
+    },
+    {
+        "Amparo": "45 II d",
+        "Código Enquadramento": "9091",
+        "Desdobramento": "0",
+        "Tipificação": "Não adotar em caso de acidente ou avaria, as providências constantes da ficha de emergência e do envelope para o transporte ."
+    },
+    {
+        "Amparo": "45 II d",
+        "Código Enquadramento": "9091",
+        "Desdobramento": "1",
+        "Tipificação": "Não adotar em caso de acidente as providências constantes da ficha de emergência e do envelope para o transporte."
+    },
+    {
+        "Amparo": "45 II d",
+        "Código Enquadramento": "9091",
+        "Desdobramento": "2",
+        "Tipificação": "Não adotar em caso de avaria as providências constantes da ficha de emergência e do envelope para o transporte."
+    },
+    {
+        "Amparo": "45 II e",
+        "Código Enquadramento": "9105",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produto a granel sem utilizar o tacógrafo ou não apresentar o disco a Autoridade competente, quando solicitado."
+    },
+    {
+        "Amparo": "45 II e",
+        "Código Enquadramento": "9105",
+        "Desdobramento": "1",
+        "Tipificação": "Transportar produto a granel sem utilizar o tacógrafo ."
+    },
+    {
+        "Amparo": "45 II e",
+        "Código Enquadramento": "9105",
+        "Desdobramento": "2",
+        "Tipificação": "Transportar produto a granel e não apresentar o disco a Autoridade competente quando solicitado ."
+    },
+    {
+        "Amparo": "45 III a",
+        "Código Enquadramento": "9113",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar carga mal estivada."
+    },
+    {
+        "Amparo": "45 III b",
+        "Código Enquadramento": "9121",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produto perigoso em veículo desprovido de equipamento para situação de emergência e proteção individual ."
+    },
+    {
+        "Amparo": "45 III b",
+        "Código Enquadramento": "9121",
+        "Desdobramento": "1",
+        "Tipificação": "Transportar produto perigoso em veículo desprovido de equipamento para situação de emergência ."
+    },
+    {
+        "Amparo": "45 III b",
+        "Código Enquadramento": "9121",
+        "Desdobramento": "2",
+        "Tipificação": "Transportar produto perigoso em veículo desprovido de equipamento de proteção individual."
+    },
+    {
+        "Amparo": "45 III c",
+        "Código Enquadramento": "9130",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produto perigoso desacompanhado de certificado de capacitação para o transporte de produtos perigosos granel."
+    },
+    {
+        "Amparo": "45 III d",
+        "Código Enquadramento": "9148",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produto perigoso desacompanhado de declaração de responsabilidade do expedidor aposta no documento fiscal ."
+    },
+    {
+        "Amparo": "45 III e",
+        "Código Enquadramento": "9156",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produto perigoso desacompanhado de ficha de emergência e envelope para o transporte ."
+    },
+    {
+        "Amparo": "45 III e",
+        "Código Enquadramento": "9156",
+        "Desdobramento": "1",
+        "Tipificação": "Transportar produto perigoso desacompanhado de ficha de emergência."
+    },
+    {
+        "Amparo": "45 III e",
+        "Código Enquadramento": "9156",
+        "Desdobramento": "2",
+        "Tipificação": "Transportar produto perigoso desacompanhado de envelope para o transporte ."
+    },
+    {
+        "Amparo": "45 III f",
+        "Código Enquadramento": "9164",
+        "Desdobramento": "0",
+        "Tipificação": "Transportar produto perigoso sem utilizar nas embalagens e no veículo, rótulos de risco e painéis de segurança em bom estado e correspondentes ao produto transportado."
+    },
+    {
+        "Amparo": "45 III f",
+        "Código Enquadramento": "9164",
+        "Desdobramento": "1",
+        "Tipificação": "Transportar produto perigoso sem utilizar nas embalagens, rótulos de risco e painéis de segurança em bom estado e correspondentes ao produto transportado ."
+    },
+    {
+        "Amparo": "45 III f",
+        "Código Enquadramento": "9164",
+        "Desdobramento": "2",
+        "Tipificação": "Transportar produto perigoso sem utilizar no veículo, rótulos de risco e painéis de segurança em bom estado e correspondentes ao produto transportado ."
+    },
+    {
+        "Amparo": "45 III g",
+        "Código Enquadramento": "9172",
+        "Desdobramento": "0",
+        "Tipificação": "Circular em vias públicas nas quais não seja permitido o trânsito de veículos transportando produto perigoso."
+    },
+    {
+        "Amparo": "45 III h",
+        "Código Enquadramento": "9180",
+        "Desdobramento": "0",
+        "Tipificação": "Não dar imediata ciência da imobilização do veículo em caso de emergência, acidente ou avaria ."
+    },
+    {
+        "Amparo": "45 III h",
+        "Código Enquadramento": "9180",
+        "Desdobramento": "1",
+        "Tipificação": "Não dar imediata ciência da imobilização do veículo em caso de emergência ."
+    },
+    {
+        "Amparo": "45 III h",
+        "Código Enquadramento": "9180",
+        "Desdobramento": "2",
+        "Tipificação": "Não dar imediata ciência da imobilização do veículo em caso de acidente ."
+    },
+    {
+        "Amparo": "45 III h",
+        "Código Enquadramento": "9180",
+        "Desdobramento": "3",
+        "Tipificação": "Não dar imediata ciência da imobilização do veículo em caso de avaria ."
+    },
+    {
+        "Amparo": "46 I a",
+        "Código Enquadramento": "9199",
+        "Desdobramento": "0",
+        "Tipificação": "Embarcar no veículo produtos incompatíveis entre si ."
+    },
+    {
+        "Amparo": "46 I b",
+        "Código Enquadramento": "9202",
+        "Desdobramento": "0",
+        "Tipificação": "Embarcar produto perigoso não constante do certificado de capacitação do veículo ou equipamento ou estando este certificado vencido ."
+    },
+    {
+        "Amparo": "46 I b",
+        "Código Enquadramento": "9202",
+        "Desdobramento": "1",
+        "Tipificação": "Embarcar produto perigoso não constante do certificado de capacitação do veículo ou estando este vencido."
+    },
+    {
+        "Amparo": "46 I b",
+        "Código Enquadramento": "9202",
+        "Desdobramento": "2",
+        "Tipificação": "Embarcar produto perigoso não constante do certificado de capacitação do equipamento ou estando este vencido."
+    },
+    {
+        "Amparo": "46 I c",
+        "Código Enquadramento": "9210",
+        "Desdobramento": "0",
+        "Tipificação": "Não lançar no documento fiscal, as informações de que trata o item II do Amparo 22."
+    },
+    {
+        "Amparo": "46 I d",
+        "Código Enquadramento": "9229",
+        "Desdobramento": "0",
+        "Tipificação": "Expedir produto perigoso mal acondicionado ou com embalagem em más condições."
+    },
+    {
+        "Amparo": "46 I d",
+        "Código Enquadramento": "9229",
+        "Desdobramento": "1",
+        "Tipificação": "Expedir produto perigoso mal acondicionado."
+    },
+    {
+        "Amparo": "46 I d",
+        "Código Enquadramento": "9229",
+        "Desdobramento": "2",
+        "Tipificação": "Expedir produto perigoso com a embalagem em más condições ."
+    },
+    {
+        "Amparo": "46 I e",
+        "Código Enquadramento": "9237",
+        "Desdobramento": "0",
+        "Tipificação": "Não comparecer ao local do acidente quando expressamente convocado pela Autoridade competente ."
+    },
+    {
+        "Amparo": "46 II a",
+        "Código Enquadramento": "9245",
+        "Desdobramento": "0",
+        "Tipificação": "Embarcar produto perigoso em veículo que não disponha de conjunto de equipamentos para situação de emergência e proteção individual ."
+    },
+    {
+        "Amparo": "46 II a",
+        "Código Enquadramento": "9245",
+        "Desdobramento": "1",
+        "Tipificação": "Embarcar produto perigoso em veículo que não disponha de conjunto de equipamentos para situação de emergência ."
+    },
+    {
+        "Amparo": "46 II a",
+        "Código Enquadramento": "9245",
+        "Desdobramento": "2",
+        "Tipificação": "Embarcar produto perigoso em veículo que não disponha de conjunto de equipamentos de proteção individual."
+    },
+    {
+        "Amparo": "46 II b",
+        "Código Enquadramento": "9253",
+        "Desdobramento": "0",
+        "Tipificação": "Não fornecer ao transportador a ficha de emergência e o envelope para o transporte."
+    },
+    {
+        "Amparo": "46 II b",
+        "Código Enquadramento": "9253",
+        "Desdobramento": "1",
+        "Tipificação": "Não fornecer ao transportador a ficha de emergência ."
+    },
+    {
+        "Amparo": "46 II b",
+        "Código Enquadramento": "9253",
+        "Desdobramento": "2",
+        "Tipificação": "Não fornecer ao transportador o envelope para o transporte."
+    },
+    {
+        "Amparo": "46 II c",
+        "Código Enquadramento": "9261",
+        "Desdobramento": "0",
+        "Tipificação": "Embarcar produto perigoso em veículo que não esteja utilizando rótulos de risco e painéis de segurança, afixados nos locais adequados ."
+    },
+    {
+        "Amparo": "46 II d",
+        "Código Enquadramento": "9270",
+        "Desdobramento": "0",
+        "Tipificação": "Expedir carga fracionada com embalagem externa desprovida dos rótulos de risco específicos."
+    },
+    {
+        "Amparo": "46 II e",
+        "Código Enquadramento": "9288",
+        "Desdobramento": "0",
+        "Tipificação": "Embarcar produto perigoso em veículo ou equipamento que não apresente adequadas condições de manutenção ."
+    },
+    {
+        "Amparo": "46 II f",
+        "Código Enquadramento": "9296",
+        "Desdobramento": "0",
+        "Tipificação": "Não prestar os necessários esclarecimentos técnicos em situação de emergência ou acidentes, quando solicitado pelas Autoridades ."
+    },
+    {
+        "Amparo": "46 II f",
+        "Código Enquadramento": "9296",
+        "Desdobramento": "1",
+        "Tipificação": "Não prestar os necessários esclarecimentos técnicos em situação de emergência quando solicitado pelas Autoridades ."
+    },
+    {
+        "Amparo": "46 II f",
+        "Código Enquadramento": "9296",
+        "Desdobramento": "2",
+        "Tipificação": "Não prestar os necessários esclarecimentos técnicos em situação de acidente quando solicitado pelas Autoridades ."
+    },
+    {
+        "Amparo": "257 § 8º",
+        "Código Enquadramento": "5002",
+        "Desdobramento": "0",
+        "Tipificação": "Multa, por não identificação do condutor infrator, imposta à pessoa jurídica."
+    },
+    {
+        "Amparo": "218 III",
+        "Código Enquadramento": "7471",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em mais de 50% (cinqüenta por cento) ."
+    },
+    {
+        "Amparo": "218 II",
+        "Código Enquadramento": "7463",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em mais de 20% (vinte por cento) até 50% (cinqüenta por cento) ."
+    },
+    {
+        "Amparo": "218 I",
+        "Código Enquadramento": "7455",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em até 20% (vinte por cento) ."
+    },
+    {
+        "Amparo": "181 XIX",
+        "Código Enquadramento": "5568",
+        "Desdobramento": "0",
+        "Tipificação": "Estacionar o veículo em locais e horários de estacionamento e parada proibida pela sinalização."
+    },
+    {
+        "Amparo": "230 * V",
+        "Código Enquadramento": "6599",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir o veículo que não esteja registrado."
+    },
+    {
+        "Amparo": "230 * V",
+        "Código Enquadramento": "6599",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir o veículo registrado que não esteja devidamente licenciado ."
+    },
+    {
+        "Amparo": "234",
+        "Código Enquadramento": "6939",
+        "Desdobramento": "3",
+        "Tipificação": "Falsificar documento de identificação do veículo."
+    },
+    {
+        "Amparo": "234",
+        "Código Enquadramento": "6939",
+        "Desdobramento": "4",
+        "Tipificação": "Adulterar documento de identificação do veículo ."
+    },
+    {
+        "Amparo": "244, V",
+        "Código Enquadramento": "7072",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir motocicleta/motoneta/ciclomotor transportando criança menor de 10 anos de idade."
+    },
+    {
+        "Amparo": "244, V",
+        "Código Enquadramento": "7072",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir motoc/moton/ciclom transp criança s/ condição cuidar própria segurança."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7153",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de sinalizar obstáculo à circulação/segurança calçada/pista-s/agravamento."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7170",
+        "Desdobramento": "2",
+        "Tipificação": "Obstaculizar a via indevidamente-agravamento 3X ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7188",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 4X ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7188",
+        "Desdobramento": "2",
+        "Tipificação": "Obstaculizar a via indevidamente-agravamento 4X ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7196",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 5X ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7196",
+        "Desdobramento": "2",
+        "Tipificação": "Obstaculizar a via indevidamente-agravamento 5X ."
+    },
+    {
+        "Amparo": "247",
+        "Código Enquadramento": "7200",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de conduzir pelo bordo pista em fila única veíc tração/propulsão humana."
+    },
+    {
+        "Amparo": "247",
+        "Código Enquadramento": "7200",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de conduzir pelo bordo da pista em fila única veículo de tração animal ."
+    },
+    {
+        "Amparo": "187 * I",
+        "Código Enquadramento": "5746",
+        "Desdobramento": "3",
+        "Tipificação": "Transitar em local/horário não permitido pela regulamentação - veículo de carga ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7153",
+        "Desdobramento": "2",
+        "Tipificação": "Obstaculizar a via indevidamente-s/agravamento."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7160",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 2X ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7160",
+        "Desdobramento": "2",
+        "Tipificação": "Obstaculizar a via indevidamente-agravamento 2X ."
+    },
+    {
+        "Amparo": "246",
+        "Código Enquadramento": "7170",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 3X ."
+    },
+    {
+        "Amparo": "181 XVII",
+        "Código Enquadramento": "5541",
+        "Desdobramento": "6",
+        "Tipificação": "Estacionar em desacordo com a regulamentação - vaga para idoso. ."
+    },
+    {
+        "Amparo": "184 III",
+        "Código Enquadramento": "7587",
+        "Desdobramento": "0",
+        "Tipificação": "Transitar com o veículo na faixa ou via exclusiva regulamentada para transporte público coletivo de passageiros."
+    },
+    {
+        "Amparo": "165 a",
+        "Código Enquadramento": "7579",
+        "Desdobramento": "0",
+        "Tipificação": "Condutor que se recusar a submeter a qualquer dos procedimentos previstos no art. 277 do CTB."
+    },
+    {
+        "Amparo": "181 XX",
+        "Código Enquadramento": "7625",
+        "Desdobramento": "1",
+        "Tipificação": "Estacionar o veículo nas vagas reservadas às pessoas com deficiência ou idosos, sem credencial que comprove tal condição."
+    },
+    {
+        "Amparo": "252, § único",
+        "Código Enquadramento": "7633",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir veículo segurando telefone celular."
+    },
+    {
+        "Amparo": "252, § único",
+        "Código Enquadramento": "7633",
+        "Desdobramento": "2",
+        "Tipificação": "Dirigir veículo manuseando telefone."
+    },
+    {
+        "Amparo": "230 XXIII",
+        "Código Enquadramento": "7560",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir veículo de carga ou passageiros em desacordo com intervalos para descanso."
+    },
+    {
+        "Amparo": "181 XVII",
+        "Código Enquadramento": "5541",
+        "Desdobramento": "7",
+        "Tipificação": "Estacionar em desacordo com a regulamentação - vaga de curta duração.."
+    },
+    {
+        "Amparo": "250, I, b",
+        "Código Enquadramento": "7242",
+        "Desdobramento": "1",
+        "Tipificação": "Em movimento de dia, deixar de manter acesa luz baixa em túneis."
+    },
+    {
+        "Amparo": "250, I, b",
+        "Código Enquadramento": "7242",
+        "Desdobramento": "2",
+        "Tipificação": "Em movimento de dia, deixar de manter acesa luz baixa sob chuva, neblina ou cerração."
+    },
+    {
+        "Amparo": "253 A",
+        "Código Enquadramento": "7617",
+        "Desdobramento": "1",
+        "Tipificação": "Usar qualquer veículo para, deliberadamente, interromper a circulação na via sem autorização do órgão."
+    },
+    {
+        "Amparo": "253 A",
+        "Código Enquadramento": "7617",
+        "Desdobramento": "2",
+        "Tipificação": "Usar qualquer veículo para, deliberadamente, restringir a circulação na via sem autorização do órgão."
+    },
+    {
+        "Amparo": "253 A",
+        "Código Enquadramento": "7617",
+        "Desdobramento": "3",
+        "Tipificação": "Usar qualquer veículo para, deliberadamente, perturbar a circulação na via sem autorização do orgão."
+    },
+    {
+        "Amparo": "181 XX",
+        "Código Enquadramento": "7625",
+        "Desdobramento": "2",
+        "Tipificação": "Estacionar o veículo nas vagas reservadas a idosos, sem credencial que comprove tal condição."
+    },
+    {
+        "Amparo": "165-B",
+        "Código Enquadramento": "7641",
+        "Desdobramento": "0",
+        "Tipificação": "Conduzir veículo para o qual seja exigida habilitação nas categorias C, D ou E sem realizar o exame toxicológico previsto no § 2º do art. 148-A deste Código, após 30 (trinta) dias do vencimento do prazo estabelecido."
+    },
+    {
+        "Amparo": "165-B, § Ú",
+        "Código Enquadramento": "7650",
+        "Desdobramento": "0",
+        "Tipificação": "Exercer atividade remunerada na condução de veículo e não comprovar a realização de exame toxicológico periódico exigido pelo § 2º do art. 148-A do CTB, por ocasião da renovação do documento de habilitação nas categorias C, D ou E."
+    },
+    {
+        "Amparo": "182, XI",
+        "Código Enquadramento": "7670",
+        "Desdobramento": "0",
+        "Tipificação": "Parar o veículo sobre ciclovia ou ciclofaixa."
+    },
+    {
+        "Amparo": "244, X",
+        "Código Enquadramento": "7684",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor com a utilização de capacete de segurança sem viseira ou óculos de proteção ou com viseira ou óculos de proteção em desacordo com a regulamentação do Contran."
+    },
+    {
+        "Amparo": "244, X",
+        "Código Enquadramento": "7684",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor com a utilização de capacete de segurança sem viseira ou óculos de proteção ou com viseira ou óculos de proteção em desacordo com a regulamentação do Contran."
+    },
+    {
+        "Amparo": "244, XI",
+        "Código Enquadramento": "7714",
+        "Desdobramento": "1",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro com o capacete de segurança utilizado na forma prevista no inciso X do caput deste Amparo."
+    },
+    {
+        "Amparo": "244, XI",
+        "Código Enquadramento": "7714",
+        "Desdobramento": "2",
+        "Tipificação": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro com o capacete de segurança utilizado na forma prevista no inciso X do caput deste Amparo."
+    },
+    {
+        "Amparo": "250, I, a",
+        "Código Enquadramento": "7722",
+        "Desdobramento": "0",
+        "Tipificação": "Quando o veículo estiver em movimento deixar de manter acesa a luz baixa durante a noite."
+    },
+    {
+        "Amparo": "233 c/c 123, I",
+        "Código Enquadramento": "6920",
+        "Desdobramento": "1",
+        "Tipificação": "Deixar de efetuar registro do veículo em 30 dias, quando for transferir a propriedade."
+    },
+    {
+        "Amparo": "233 c/c 123, II",
+        "Código Enquadramento": "6920",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de efetuar registro de veículo em 30 dias, quando mudar o município de domicilio/residência."
+    },
+    {
+        "Amparo": "233 c/c 123, III",
+        "Código Enquadramento": "6920",
+        "Desdobramento": "3",
+        "Tipificação": "Deixar de efetuar registro de veículo em 30 dias, quando for alterada qualquer característica do veiculo."
+    },
+    {
+        "Amparo": "233 c/c 123, IV",
+        "Código Enquadramento": "6920",
+        "Desdobramento": "4",
+        "Tipificação": "Deixar de efetuar registro de veículo em 30 dias, quando houver mudança de categoria."
+    },
+    {
+        "Amparo": "19 I",
+        "Código Enquadramento": "598",
+        "Desdobramento": "2",
+        "Tipificação": "O contratante contratar o Transporte Rodoviário Remunerado de Cargas de transportador sem inscrição no RNTRC ou com inscrição pendente, suspensa ou cancelada: multa de R$ 3.000,00 (três mil reais) - ANTT.."
+    },
+    {
+        "Amparo": "19 F",
+        "Código Enquadramento": "586",
+        "Desdobramento": "2",
+        "Tipificação": "Deixar de cadastrar a Operação de Transporte: multa de R$ 5.000,00 (cinco mil reais) - ANTT.."
+    },
+    {
+        "Amparo": "162 VII",
+        "Código Enquadramento": "7749",
+        "Desdobramento": "1",
+        "Tipificação": "Dirigir sem possuir os cursos especializados ou específicos obrigatórios: (Incluído pela Lei nº 14.440, de 2022)."
+    }
+]
